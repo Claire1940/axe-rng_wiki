@@ -13,6 +13,7 @@ import {
   Coins,
   Copy,
   Dices,
+  Droplet,
   Egg,
   ExternalLink,
   Flower,
@@ -23,7 +24,6 @@ import {
   Hammer,
   Hexagon,
   Hourglass,
-  Jar,
   Link2,
   Map as MapIcon,
   Repeat,
@@ -226,7 +226,7 @@ export default function HomePageClient({
 
   // Distinct lucide icons per card/row/item — no duplicates within any module
   const skillsStepIcons = [Trees, Coins, Dices, Hexagon, RotateCw];
-  const beesFaqIcons = [Flower, Egg, Jar, Link2, ArrowLeftRight, AlertCircle];
+  const beesFaqIcons = [Flower, Egg, Droplet, Link2, ArrowLeftRight, AlertCircle];
   const rebirthRowIcons = [ThumbsUp, Hourglass, Zap, Repeat, Target];
   const zoneStageIcons = [Sprout, Footprints, Flower2, RotateCcw, Trophy];
 
