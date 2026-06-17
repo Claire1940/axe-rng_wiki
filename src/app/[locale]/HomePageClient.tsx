@@ -158,13 +158,13 @@ export default function HomePageClient({
       },
       {
         "@type": "VideoObject",
-        name: "LUCID BLOCKS | AVAILABLE NOW",
+        name: "Chopping INFINITE Trees in Roblox Axe RNG",
         description:
-          "Official Lucid Blocks video featuring the Steam launch trailer and gameplay preview.",
-        uploadDate: "2026-03-12",
+          "Axe RNG gameplay video showing the roll-axes, chop-trees, hatch-bees, collect-honey and rebirth-luck loop in Chopsy Games' Roblox RNG lumberjack simulator.",
+        uploadDate: "2026-06-18",
         thumbnailUrl: `${siteUrl}/images/hero.webp`,
-        embedUrl: "https://www.youtube.com/embed/7C7fybRM_No",
-        url: "https://www.youtube.com/watch?v=7C7fybRM_No",
+        embedUrl: "https://www.youtube.com/embed/f3lWoOc2r3k",
+        url: "https://www.youtube.com/watch?v=f3lWoOc2r3k",
       },
     ],
   };
@@ -279,8 +279,8 @@ export default function HomePageClient({
         <div className="scroll-reveal container mx-auto max-w-5xl">
           <div className="relative overflow-hidden rounded-2xl">
             <VideoFeature
-              videoId="7C7fybRM_No"
-              title="LUCID BLOCKS | AVAILABLE NOW"
+              videoId="f3lWoOc2r3k"
+              title="Chopping INFINITE Trees in Roblox Axe RNG"
             />
           </div>
         </div>
