@@ -10,7 +10,16 @@
       "twitterDescription": "Axe RNG Wiki covers Roblox codes, redeem steps, rare axes, bees, honey, upgrades, zones and rebirth tips for Chopsy Games' RNG tree-chopping simulator."
     }
   },
-  "nav": {},
+  "nav": {
+    "codes": "Codes",
+    "guide": "Guide",
+    "bees": "Bees",
+    "axes": "Axes",
+    "trees": "Trees",
+    "luck": "Luck",
+    "upgrades": "Upgrades",
+    "farming": "Farming"
+  },
   "common": {
     "home": "Home",
     "more": "More",
@@ -109,21 +118,73 @@
       "subtitle": "Claim free potions, honey, crystals, and axe rewards before grinding through more trees than necessary.",
       "intro": "Use these Axe RNG codes from the in-game Shop code box. Codes are case-sensitive, usually one-time use per account, and may require a fresh server after a new update.",
       "activeCodes": [
-        { "code": "AWESOME", "reward": "Potions and boosts", "note": "Use for general progression boosts." },
-        { "code": "POTIONS", "reward": "Free potion rewards", "note": "Use before long chopping or rolling sessions." },
-        { "code": "ULTRAX2", "reward": "Ultra Luck Potion rewards", "note": "Best saved for focused axe rolling." },
-        { "code": "SWEETBOOST", "reward": "Logs Potion and Honey Potion rewards", "note": "Useful for resource farming." },
-        { "code": "THANKYOU", "reward": "1 Shiny Broad Axe", "note": "Equip early for a stronger starting axe option." },
-        { "code": "FUSIONISHERE", "reward": "2 Super Luck Potions", "note": "Use when rolling for stronger axes." },
-        { "code": "FUSIONSOON", "reward": "1 Super Luck Potion", "note": "Save for a real rolling session, not random button pressing." },
-        { "code": "SUPERLUCK", "reward": "1 Super Luck Potion", "note": "Use for improved roll attempts." },
-        { "code": "SMALLCHANGES", "reward": "2 Speed Potions and 2 Luck Potions", "note": "Good for both rolling and faster early farming." },
-        { "code": "ADMINABUSESOON", "reward": "2 Super Luck Potions", "note": "Use during a lucky rolling window." },
-        { "code": "CRYSTALS", "reward": "500 Crystals", "note": "Useful for early upgrades and progression purchases." },
-        { "code": "SWEET", "reward": "2,000 Honey", "note": "Useful for bee and honey-related progression." }
+        {
+          "code": "AWESOME",
+          "reward": "Potions and boosts",
+          "note": "Use for general progression boosts."
+        },
+        {
+          "code": "POTIONS",
+          "reward": "Free potion rewards",
+          "note": "Use before long chopping or rolling sessions."
+        },
+        {
+          "code": "ULTRAX2",
+          "reward": "Ultra Luck Potion rewards",
+          "note": "Best saved for focused axe rolling."
+        },
+        {
+          "code": "SWEETBOOST",
+          "reward": "Logs Potion and Honey Potion rewards",
+          "note": "Useful for resource farming."
+        },
+        {
+          "code": "THANKYOU",
+          "reward": "1 Shiny Broad Axe",
+          "note": "Equip early for a stronger starting axe option."
+        },
+        {
+          "code": "FUSIONISHERE",
+          "reward": "2 Super Luck Potions",
+          "note": "Use when rolling for stronger axes."
+        },
+        {
+          "code": "FUSIONSOON",
+          "reward": "1 Super Luck Potion",
+          "note": "Save for a real rolling session, not random button pressing."
+        },
+        {
+          "code": "SUPERLUCK",
+          "reward": "1 Super Luck Potion",
+          "note": "Use for improved roll attempts."
+        },
+        {
+          "code": "SMALLCHANGES",
+          "reward": "2 Speed Potions and 2 Luck Potions",
+          "note": "Good for both rolling and faster early farming."
+        },
+        {
+          "code": "ADMINABUSESOON",
+          "reward": "2 Super Luck Potions",
+          "note": "Use during a lucky rolling window."
+        },
+        {
+          "code": "CRYSTALS",
+          "reward": "500 Crystals",
+          "note": "Useful for early upgrades and progression purchases."
+        },
+        {
+          "code": "SWEET",
+          "reward": "2,000 Honey",
+          "note": "Useful for bee and honey-related progression."
+        }
       ],
       "expiredCodes": [
-        { "code": "PATCHY", "reward": "250 Crystals and 1 Logs Potion", "note": "Keep listed so returning players know why it no longer works." }
+        {
+          "code": "PATCHY",
+          "reward": "250 Crystals and 1 Logs Potion",
+          "note": "Keep listed so returning players know why it no longer works."
+        }
       ],
       "redeemSteps": [
         "Open Axe RNG on Roblox.",
@@ -147,14 +208,50 @@
       "subtitle": "Play the real Axe RNG experience by Chopsy Games on Roblox, not some mystery download page.",
       "intro": "Axe RNG is a Roblox incremental simulator where players roll for axes, chop trees, progress through zones, upgrade skills, hatch bees, collect honey, and rebirth for more luck.",
       "cards": [
-        { "label": "Official Play Link", "value": "Axe RNG on Roblox", "detail": "Use the official Roblox experience page to play Axe RNG safely.", "href": "https://www.roblox.com/games/121863161094252/Axe-RNG" },
-        { "label": "Developer", "value": "Chopsy Games", "detail": "Axe RNG is published under the Chopsy Games Roblox community.", "href": "https://www.roblox.com/communities/896806231/Chopsy-Games" },
-        { "label": "Official Community", "value": "Chopsy Games Roblox Group", "detail": "Join the group for the listed +1 Luck bonus and future update access.", "href": "https://www.roblox.com/communities/896806231/Chopsy-Games" },
-        { "label": "Discord Server", "value": "Chopsy Games Discord", "detail": "Use the Discord invite for update posts, code announcements, polls, and community discussion.", "href": "https://discord.com/invite/5pUHN6D4xH" },
-        { "label": "Core Gameplay Loop", "value": "Roll axes, chop trees, upgrade, hatch bees, rebirth", "detail": "The official game description centers the loop around rolling stronger axes, gathering resources, unlocking zones, and increasing Luck through rebirths." },
-        { "label": "Roblox Experience ID", "value": "121863161094252", "detail": "This is the place ID from the official Roblox game URL." },
-        { "label": "Universe ID", "value": "10241922839", "detail": "This ID appears in Roblox game detail URLs for the Axe RNG experience." },
-        { "label": "Platform Context", "value": "Roblox experience", "detail": "Axe RNG should be played through Roblox. Avoid APK mirrors, browser clone pages, and unofficial download prompts." }
+        {
+          "label": "Official Play Link",
+          "value": "Axe RNG on Roblox",
+          "detail": "Use the official Roblox experience page to play Axe RNG safely.",
+          "href": "https://www.roblox.com/games/121863161094252/Axe-RNG"
+        },
+        {
+          "label": "Developer",
+          "value": "Chopsy Games",
+          "detail": "Axe RNG is published under the Chopsy Games Roblox community.",
+          "href": "https://www.roblox.com/communities/896806231/Chopsy-Games"
+        },
+        {
+          "label": "Official Community",
+          "value": "Chopsy Games Roblox Group",
+          "detail": "Join the group for the listed +1 Luck bonus and future update access.",
+          "href": "https://www.roblox.com/communities/896806231/Chopsy-Games"
+        },
+        {
+          "label": "Discord Server",
+          "value": "Chopsy Games Discord",
+          "detail": "Use the Discord invite for update posts, code announcements, polls, and community discussion.",
+          "href": "https://discord.com/invite/5pUHN6D4xH"
+        },
+        {
+          "label": "Core Gameplay Loop",
+          "value": "Roll axes, chop trees, upgrade, hatch bees, rebirth",
+          "detail": "The official game description centers the loop around rolling stronger axes, gathering resources, unlocking zones, and increasing Luck through rebirths."
+        },
+        {
+          "label": "Roblox Experience ID",
+          "value": "121863161094252",
+          "detail": "This is the place ID from the official Roblox game URL."
+        },
+        {
+          "label": "Universe ID",
+          "value": "10241922839",
+          "detail": "This ID appears in Roblox game detail URLs for the Axe RNG experience."
+        },
+        {
+          "label": "Platform Context",
+          "value": "Roblox experience",
+          "detail": "Axe RNG should be played through Roblox. Avoid APK mirrors, browser clone pages, and unofficial download prompts."
+        }
       ]
     },
     "axeRngBeginnerGuide": {
@@ -163,15 +260,60 @@
       "subtitle": "Start by rolling better axes, chopping trees, upgrading skills, collecting honey, and rebirthing for more Luck.",
       "intro": "Axe RNG rewards steady progression: roll for stronger axes, use them to chop trees faster, invest resources into upgrades, hatch bees for honey, unlock new zones, and rebirth when the Luck gain is worth resetting progression.",
       "steps": [
-        { "title": "Roll for your first useful axe", "action": "Use the roll system to get an axe stronger than your starting option.", "whyItMatters": "Axes drive chopping speed, so early progress depends on replacing weak rolls quickly.", "beginnerMistake": "Keeping a weak axe too long because it looks acceptable." },
-        { "title": "Equip the best axe you have", "action": "After rolling or claiming a code axe, equip the strongest available axe before farming trees.", "whyItMatters": "Better axes reduce the time needed to chop trees and gather resources.", "beginnerMistake": "Claiming a stronger axe reward and forgetting to equip it." },
-        { "title": "Chop trees for resources", "action": "Farm trees consistently to build up the resources needed for upgrades and progression.", "whyItMatters": "Tree chopping is the main active loop that feeds the rest of the game.", "beginnerMistake": "Rolling nonstop without farming enough resources to support upgrades." },
-        { "title": "Upgrade your skills", "action": "Spend resources on skill upgrades when they improve chopping, rolling, or general progression speed.", "whyItMatters": "Skill upgrades make every future farming session more efficient.", "beginnerMistake": "Saving resources forever while still chopping slowly." },
-        { "title": "Hatch bees and collect honey", "action": "Use the bee system and honey rewards to support longer-term progression.", "whyItMatters": "The official loop includes hatching bees and collecting lots of honey, so ignoring honey slows account growth.", "beginnerMistake": "Treating bees as decoration instead of part of the progression system." },
-        { "title": "Progress through zones", "action": "Move into new zones when your axe strength and upgrades make current trees easy to clear.", "whyItMatters": "Zones are part of the official progression path and usually demand stronger tools.", "beginnerMistake": "Entering harder areas too early and wasting time on slow clears." },
-        { "title": "Use Luck boosts before serious rolling", "action": "Save Luck, Super Luck, and Ultra Luck potion rewards for focused rolling sessions.", "whyItMatters": "Luck matters most when you are actively trying to replace your current axe.", "beginnerMistake": "Using Luck boosts while barely rolling." },
-        { "title": "Rebirth when Luck gain is worth it", "action": "Rebirth to increase Luck after your current run slows down and the reset gives better future rolls.", "whyItMatters": "Rebirth increases Luck, making it central to long-term progression.", "beginnerMistake": "Rebirthing too early before gaining enough value from the current run." },
-        { "title": "Join the official group for +1 Luck", "action": "Like the game, favorite it, and join the Chopsy Games Roblox group for the listed Luck bonus.", "whyItMatters": "The official Roblox description lists a +1 Luck bonus for liking, favoriting, and joining the group.", "beginnerMistake": "Skipping a free Luck bonus and then blaming the dice." }
+        {
+          "title": "Roll for your first useful axe",
+          "action": "Use the roll system to get an axe stronger than your starting option.",
+          "whyItMatters": "Axes drive chopping speed, so early progress depends on replacing weak rolls quickly.",
+          "beginnerMistake": "Keeping a weak axe too long because it looks acceptable."
+        },
+        {
+          "title": "Equip the best axe you have",
+          "action": "After rolling or claiming a code axe, equip the strongest available axe before farming trees.",
+          "whyItMatters": "Better axes reduce the time needed to chop trees and gather resources.",
+          "beginnerMistake": "Claiming a stronger axe reward and forgetting to equip it."
+        },
+        {
+          "title": "Chop trees for resources",
+          "action": "Farm trees consistently to build up the resources needed for upgrades and progression.",
+          "whyItMatters": "Tree chopping is the main active loop that feeds the rest of the game.",
+          "beginnerMistake": "Rolling nonstop without farming enough resources to support upgrades."
+        },
+        {
+          "title": "Upgrade your skills",
+          "action": "Spend resources on skill upgrades when they improve chopping, rolling, or general progression speed.",
+          "whyItMatters": "Skill upgrades make every future farming session more efficient.",
+          "beginnerMistake": "Saving resources forever while still chopping slowly."
+        },
+        {
+          "title": "Hatch bees and collect honey",
+          "action": "Use the bee system and honey rewards to support longer-term progression.",
+          "whyItMatters": "The official loop includes hatching bees and collecting lots of honey, so ignoring honey slows account growth.",
+          "beginnerMistake": "Treating bees as decoration instead of part of the progression system."
+        },
+        {
+          "title": "Progress through zones",
+          "action": "Move into new zones when your axe strength and upgrades make current trees easy to clear.",
+          "whyItMatters": "Zones are part of the official progression path and usually demand stronger tools.",
+          "beginnerMistake": "Entering harder areas too early and wasting time on slow clears."
+        },
+        {
+          "title": "Use Luck boosts before serious rolling",
+          "action": "Save Luck, Super Luck, and Ultra Luck potion rewards for focused rolling sessions.",
+          "whyItMatters": "Luck matters most when you are actively trying to replace your current axe.",
+          "beginnerMistake": "Using Luck boosts while barely rolling."
+        },
+        {
+          "title": "Rebirth when Luck gain is worth it",
+          "action": "Rebirth to increase Luck after your current run slows down and the reset gives better future rolls.",
+          "whyItMatters": "Rebirth increases Luck, making it central to long-term progression.",
+          "beginnerMistake": "Rebirthing too early before gaining enough value from the current run."
+        },
+        {
+          "title": "Join the official group for +1 Luck",
+          "action": "Like the game, favorite it, and join the Chopsy Games Roblox group for the listed Luck bonus.",
+          "whyItMatters": "The official Roblox description lists a +1 Luck bonus for liking, favoriting, and joining the group.",
+          "beginnerMistake": "Skipping a free Luck bonus and then blaming the dice."
+        }
       ]
     },
     "axeRngAxeTierList": {
@@ -184,43 +326,85 @@
           "tier": "S",
           "label": "Best Early Keeper",
           "entries": [
-            { "name": "Shiny Broad Axe", "type": "Code axe reward", "bestFor": "Fresh accounts, early tree farming, and first serious progression push.", "keepOrReroll": "Equip immediately and keep until a higher-power roll clearly beats it.", "reason": "The THANKYOU code rewards a Shiny Broad Axe, making it the clearest named early axe upgrade available from current code data." }
+            {
+              "name": "Shiny Broad Axe",
+              "type": "Code axe reward",
+              "bestFor": "Fresh accounts, early tree farming, and first serious progression push.",
+              "keepOrReroll": "Equip immediately and keep until a higher-power roll clearly beats it.",
+              "reason": "The THANKYOU code rewards a Shiny Broad Axe, making it the clearest named early axe upgrade available from current code data."
+            }
           ]
         },
         {
           "tier": "A",
           "label": "High-Value Roll Upgrades",
           "entries": [
-            { "name": "Higher-rarity axe rolls", "type": "Roll outcome category", "bestFor": "Replacing your current axe when tree clearing starts to feel slow.", "keepOrReroll": "Keep if it improves chopping speed or helps you handle the next zone faster.", "reason": "Axe RNG progression is built around rolling stronger axes, then using them to chop trees and advance through zones." }
+            {
+              "name": "Higher-rarity axe rolls",
+              "type": "Roll outcome category",
+              "bestFor": "Replacing your current axe when tree clearing starts to feel slow.",
+              "keepOrReroll": "Keep if it improves chopping speed or helps you handle the next zone faster.",
+              "reason": "Axe RNG progression is built around rolling stronger axes, then using them to chop trees and advance through zones."
+            }
           ]
         },
         {
           "tier": "B",
           "label": "Useful Temporary Axes",
           "entries": [
-            { "name": "Same-stage power upgrades", "type": "Short-term progression axe", "bestFor": "Bridging the gap before a rare roll or code axe upgrade.", "keepOrReroll": "Use temporarily, but keep rolling once Luck boosts or resources are ready.", "reason": "A small axe improvement still matters early because every faster tree clear feeds upgrades, honey, and zone progress." }
+            {
+              "name": "Same-stage power upgrades",
+              "type": "Short-term progression axe",
+              "bestFor": "Bridging the gap before a rare roll or code axe upgrade.",
+              "keepOrReroll": "Use temporarily, but keep rolling once Luck boosts or resources are ready.",
+              "reason": "A small axe improvement still matters early because every faster tree clear feeds upgrades, honey, and zone progress."
+            }
           ]
         },
         {
           "tier": "C",
           "label": "Starter-Level Axes",
           "entries": [
-            { "name": "Low-power early rolls", "type": "Starter replacement category", "bestFor": "The first minutes of play only.", "keepOrReroll": "Replace quickly once you get Shiny Broad Axe or any stronger roll.", "reason": "Low-power axes slow down chopping, which slows every connected system: upgrades, bees, honey, and rebirth prep." }
+            {
+              "name": "Low-power early rolls",
+              "type": "Starter replacement category",
+              "bestFor": "The first minutes of play only.",
+              "keepOrReroll": "Replace quickly once you get Shiny Broad Axe or any stronger roll.",
+              "reason": "Low-power axes slow down chopping, which slows every connected system: upgrades, bees, honey, and rebirth prep."
+            }
           ]
         },
         {
           "tier": "D",
           "label": "Reroll Material",
           "entries": [
-            { "name": "Weaker duplicate rolls", "type": "Low-value roll outcome", "bestFor": "No serious use after a stronger axe is equipped.", "keepOrReroll": "Do not build your farming plan around these; continue rolling when you can.", "reason": "Duplicates or weaker results do not improve chop speed, so they do not meaningfully push progression." }
+            {
+              "name": "Weaker duplicate rolls",
+              "type": "Low-value roll outcome",
+              "bestFor": "No serious use after a stronger axe is equipped.",
+              "keepOrReroll": "Do not build your farming plan around these; continue rolling when you can.",
+              "reason": "Duplicates or weaker results do not improve chop speed, so they do not meaningfully push progression."
+            }
           ]
         },
         {
           "tier": "Strategy",
           "label": "When to Spend Boosts",
           "entries": [
-            { "name": "Super Luck and Ultra Luck sessions", "type": "Boost timing plan", "bestFor": "Focused rolling after claiming codes such as ADMINABUSESOON, FUSIONISHERE, FUSIONSOON, SUPERLUCK, and ULTRAX2.", "keepOrReroll": "Use Luck boosts only when you are ready to roll repeatedly, then stop once you land a clear axe upgrade.", "reason": "Luck boosts are more valuable during concentrated rolling than during casual tree farming." },
-            { "name": "Speed and resource farming sessions", "type": "Farming timing plan", "bestFor": "Using SMALLCHANGES, SWEETBOOST, POTIONS, SWEET, and CRYSTALS to speed up early growth.", "keepOrReroll": "Farm and upgrade first if your current axe already clears trees comfortably.", "reason": "Resource boosts help you build the upgrade base needed to make future rolls and rebirths more valuable." }
+            {
+              "name": "Super Luck and Ultra Luck sessions",
+              "type": "Boost timing plan",
+              "bestFor": "Focused rolling after claiming codes such as ADMINABUSESOON, FUSIONISHERE, FUSIONSOON, SUPERLUCK, and ULTRAX2.",
+              "keepOrReroll": "Use Luck boosts only when you are ready to roll repeatedly, then stop once you land a clear axe upgrade.",
+              "reason": "Luck boosts are more valuable during concentrated rolling than during casual tree farming."
+            },
+            {
+              "name": "Speed and resource farming sessions",
+              "type": "Farming timing plan",
+              "bestFor": "Using SMALLCHANGES, SWEETBOOST, POTIONS, SWEET, and CRYSTALS to speed up early growth.",
+              "keepOrReroll": "Farm and upgrade first if your current axe already clears trees comfortably.",
+              "reason": "Resource boosts help you build the upgrade base needed to make future rolls and rebirths more valuable."
+            }
           ]
         }
       ]
@@ -231,11 +415,36 @@
       "subtitle": "Upgrade skills around the main loop: roll stronger axes, chop trees faster, collect more resources, hatch bees, and push into new zones.",
       "intro": "Axe RNG rewards steady progression more than random spending. Build your upgrades around faster tree clearing first, then resource gain, bees, honey, and rebirth Luck so every system feeds the next one.",
       "steps": [
-        { "priority": "First", "title": "Improve chopping efficiency", "action": "Put early skill upgrades into anything that helps trees go down faster or makes each chopping cycle smoother.", "whyItMatters": "Chopping trees is the core action after rolling axes, so faster clearing improves every later goal." },
-        { "priority": "Second", "title": "Support resource gain", "action": "After basic chopping feels stable, focus on upgrades that help resource collection from repeated tree clears.", "whyItMatters": "More resources give you more room to upgrade, hatch bees, and prepare for harder zone progress." },
-        { "priority": "Third", "title": "Keep rolling for stronger axes", "action": "Use skill progress to support better axe rolls instead of relying only on your starting axe.", "whyItMatters": "The official loop starts with rolling powerful axes, and stronger axes make tree and zone progression easier." },
-        { "priority": "Fourth", "title": "Add bees into the routine", "action": "Once chopping is consistent, hatch bees and keep collecting honey while you continue rolling and clearing trees.", "whyItMatters": "Bees and honey are part of the progression loop, not a side decoration." },
-        { "priority": "Fifth", "title": "Use rebirth when progress slows", "action": "Rebirth after your current axe and skill setup stops pushing zones efficiently.", "whyItMatters": "Rebirth increases Luck, which helps future rolling and long-term progression." }
+        {
+          "priority": "First",
+          "title": "Improve chopping efficiency",
+          "action": "Put early skill upgrades into anything that helps trees go down faster or makes each chopping cycle smoother.",
+          "whyItMatters": "Chopping trees is the core action after rolling axes, so faster clearing improves every later goal."
+        },
+        {
+          "priority": "Second",
+          "title": "Support resource gain",
+          "action": "After basic chopping feels stable, focus on upgrades that help resource collection from repeated tree clears.",
+          "whyItMatters": "More resources give you more room to upgrade, hatch bees, and prepare for harder zone progress."
+        },
+        {
+          "priority": "Third",
+          "title": "Keep rolling for stronger axes",
+          "action": "Use skill progress to support better axe rolls instead of relying only on your starting axe.",
+          "whyItMatters": "The official loop starts with rolling powerful axes, and stronger axes make tree and zone progression easier."
+        },
+        {
+          "priority": "Fourth",
+          "title": "Add bees into the routine",
+          "action": "Once chopping is consistent, hatch bees and keep collecting honey while you continue rolling and clearing trees.",
+          "whyItMatters": "Bees and honey are part of the progression loop, not a side decoration."
+        },
+        {
+          "priority": "Fifth",
+          "title": "Use rebirth when progress slows",
+          "action": "Rebirth after your current axe and skill setup stops pushing zones efficiently.",
+          "whyItMatters": "Rebirth increases Luck, which helps future rolling and long-term progression."
+        }
       ]
     },
     "axeRngBeesHoney": {
@@ -244,12 +453,30 @@
       "subtitle": "Bees add a second progression layer to the roll-and-chop loop. Hatch bees, collect honey, and keep that resource moving while your axes handle the trees.",
       "intro": "The official game loop includes hatching bees and collecting lots of honey after rolling axes, upgrading skills, and chopping trees. Treat bees as a parallel engine that grows while you work through zones.",
       "faqs": [
-        { "question": "What are bees used for in Axe RNG?", "answer": "Bees are part of Axe RNG progression. The game tells players to hatch new bees, then collect honey as they continue rolling axes and chopping trees." },
-        { "question": "When should beginners hatch bees in Axe RNG?", "answer": "Start hatching bees after you have a usable axe and can clear early trees consistently. That keeps honey progress running while you continue working on skills and zones." },
-        { "question": "Why does honey matter in Axe RNG?", "answer": "Honey is the resource tied to the bee system. Since Axe RNG specifically highlights collecting lots of honey, it belongs in your regular progression routine instead of being ignored until later." },
-        { "question": "How do bees connect to chopping trees in Axe RNG?", "answer": "Axes handle tree clearing, skills improve your progress, and bees add honey collection on top of that loop. The clean routine is: roll axes, chop trees, upgrade skills, hatch bees, collect honey, then push zones." },
-        { "question": "Should Axe RNG honey come before stronger axes?", "answer": "No. Stronger axes and smoother chopping should come first because they drive the main progression path. Bees and honey become stronger once your basic chopping pace is already working." },
-        { "question": "What is the common Axe RNG honey mistake?", "answer": "The usual mistake is waiting too long to start the bee loop. Hatch bees once the game gives you a practical opening, then let honey build while you continue chopping and rolling." }
+        {
+          "question": "What are bees used for in Axe RNG?",
+          "answer": "Bees are part of Axe RNG progression. The game tells players to hatch new bees, then collect honey as they continue rolling axes and chopping trees."
+        },
+        {
+          "question": "When should beginners hatch bees in Axe RNG?",
+          "answer": "Start hatching bees after you have a usable axe and can clear early trees consistently. That keeps honey progress running while you continue working on skills and zones."
+        },
+        {
+          "question": "Why does honey matter in Axe RNG?",
+          "answer": "Honey is the resource tied to the bee system. Since Axe RNG specifically highlights collecting lots of honey, it belongs in your regular progression routine instead of being ignored until later."
+        },
+        {
+          "question": "How do bees connect to chopping trees in Axe RNG?",
+          "answer": "Axes handle tree clearing, skills improve your progress, and bees add honey collection on top of that loop. The clean routine is: roll axes, chop trees, upgrade skills, hatch bees, collect honey, then push zones."
+        },
+        {
+          "question": "Should Axe RNG honey come before stronger axes?",
+          "answer": "No. Stronger axes and smoother chopping should come first because they drive the main progression path. Bees and honey become stronger once your basic chopping pace is already working."
+        },
+        {
+          "question": "What is the common Axe RNG honey mistake?",
+          "answer": "The usual mistake is waiting too long to start the bee loop. Hatch bees once the game gives you a practical opening, then let honey build while you continue chopping and rolling."
+        }
       ]
     },
     "axeRngRebirthLuck": {
@@ -258,11 +485,36 @@
       "subtitle": "Rebirth increases Luck, which makes it one of the most important long-term systems in Axe RNG. Use it when your current progress slows, not every time you see a button.",
       "intro": "Luck matters because Axe RNG starts with rolling axes. Rebirth improves Luck for future progress, while the game also gives a +1 Luck bonus for liking, favoriting, and joining the Chopsy Games group.",
       "rows": [
-        { "timing": "Before serious rolling", "action": "Like the game, favorite it, and join the Chopsy Games group.", "benefit": "+1 Luck bonus from the official game description.", "tradeoff": "No progression tradeoff; this should be done early." },
-        { "timing": "Before first rebirth", "action": "Push your current axe, skills, bees, and tree progress until the next zone or stronger trees feel slow.", "benefit": "You get more value from the current run before moving into a Luck-focused reset cycle.", "tradeoff": "Waiting too long can slow future axe rolls." },
-        { "timing": "Good rebirth window", "action": "Rebirth when stronger axe rolls and zone progress stop coming at a useful pace.", "benefit": "Rebirth increases Luck, making future rolling more valuable.", "tradeoff": "You pause short-term pushing to improve long-term progression." },
-        { "timing": "After rebirth", "action": "Roll for a stronger axe first, then rebuild chopping speed, skill progress, bees, and honey collection.", "benefit": "Higher Luck supports the next cycle of axe rolling and zone pushing.", "tradeoff": "Early post-rebirth progress can feel slower until the new setup catches up." },
-        { "timing": "Before zone pushing", "action": "Stack available Luck progress before spending time on important axe rolls.", "benefit": "Better rolls make it easier to chop stronger trees and reach later zones.", "tradeoff": "Rolling without Luck preparation can waste time on weaker results." }
+        {
+          "timing": "Before serious rolling",
+          "action": "Like the game, favorite it, and join the Chopsy Games group.",
+          "benefit": "+1 Luck bonus from the official game description.",
+          "tradeoff": "No progression tradeoff; this should be done early."
+        },
+        {
+          "timing": "Before first rebirth",
+          "action": "Push your current axe, skills, bees, and tree progress until the next zone or stronger trees feel slow.",
+          "benefit": "You get more value from the current run before moving into a Luck-focused reset cycle.",
+          "tradeoff": "Waiting too long can slow future axe rolls."
+        },
+        {
+          "timing": "Good rebirth window",
+          "action": "Rebirth when stronger axe rolls and zone progress stop coming at a useful pace.",
+          "benefit": "Rebirth increases Luck, making future rolling more valuable.",
+          "tradeoff": "You pause short-term pushing to improve long-term progression."
+        },
+        {
+          "timing": "After rebirth",
+          "action": "Roll for a stronger axe first, then rebuild chopping speed, skill progress, bees, and honey collection.",
+          "benefit": "Higher Luck supports the next cycle of axe rolling and zone pushing.",
+          "tradeoff": "Early post-rebirth progress can feel slower until the new setup catches up."
+        },
+        {
+          "timing": "Before zone pushing",
+          "action": "Stack available Luck progress before spending time on important axe rolls.",
+          "benefit": "Better rolls make it easier to chop stronger trees and reach later zones.",
+          "tradeoff": "Rolling without Luck preparation can waste time on weaker results."
+        }
       ]
     },
     "axeRngZonesProgression": {
@@ -271,11 +523,41 @@
       "subtitle": "Progress through zones by improving axes, chopping stronger trees, upgrading skills, building bees, collecting honey, and using rebirth Luck.",
       "intro": "Zones are the visible progress path in Axe RNG. The safest route is to clear trees comfortably in your current area, upgrade skills, hatch bees for honey, then use rebirth Luck and stronger axe rolls to break into harder zones.",
       "rows": [
-        { "zoneStage": "Starting area", "mainGoal": "Roll a usable axe and begin chopping trees consistently.", "requiredStrength": "Any axe setup that clears starter trees without long downtime.", "resourceFocus": "Basic tree progress and first skill upgrades.", "recommendedPreparation": "Prioritize chopping efficiency before spreading effort into every system." },
-        { "zoneStage": "First zone push", "mainGoal": "Use stronger axe rolls and early skill upgrades to move beyond the first tree wall.", "requiredStrength": "An axe strong enough to make current trees feel routine.", "resourceFocus": "Skill upgrades, tree clearing, and early honey setup.", "recommendedPreparation": "Roll for a stronger axe, upgrade useful skills, then start hatching bees once chopping is stable." },
-        { "zoneStage": "Bee and honey buildup", "mainGoal": "Keep bees active while continuing to chop trees and improve axes.", "requiredStrength": "A steady chopping pace that lets you progress while honey builds in parallel.", "resourceFocus": "Honey collection, bee hatching, and repeat tree clears.", "recommendedPreparation": "Do not stop rolling axes; bees support the loop, they do not replace it." },
-        { "zoneStage": "Rebirth-supported progression", "mainGoal": "Use rebirth Luck to improve future axe rolls and push past slower tree progress.", "requiredStrength": "Current progress has slowed enough that more Luck is worth more than staying on the same run.", "resourceFocus": "Luck, stronger axe rolls, rebuilt skill progress, and zone recovery.", "recommendedPreparation": "Claim the +1 Luck group bonus, rebirth at a slowdown point, then roll before pushing hard again." },
-        { "zoneStage": "Later zone grind", "mainGoal": "Repeat the full loop until stronger trees and new zones become manageable.", "requiredStrength": "A stronger axe roll backed by upgraded skills, honey progress, and rebirth Luck.", "resourceFocus": "High-value chopping cycles, honey, Luck, and zone unlock progress.", "recommendedPreparation": "Rotate between axe rolling, skill upgrades, bee progress, and rebirth instead of forcing one system forever." }
+        {
+          "zoneStage": "Starting area",
+          "mainGoal": "Roll a usable axe and begin chopping trees consistently.",
+          "requiredStrength": "Any axe setup that clears starter trees without long downtime.",
+          "resourceFocus": "Basic tree progress and first skill upgrades.",
+          "recommendedPreparation": "Prioritize chopping efficiency before spreading effort into every system."
+        },
+        {
+          "zoneStage": "First zone push",
+          "mainGoal": "Use stronger axe rolls and early skill upgrades to move beyond the first tree wall.",
+          "requiredStrength": "An axe strong enough to make current trees feel routine.",
+          "resourceFocus": "Skill upgrades, tree clearing, and early honey setup.",
+          "recommendedPreparation": "Roll for a stronger axe, upgrade useful skills, then start hatching bees once chopping is stable."
+        },
+        {
+          "zoneStage": "Bee and honey buildup",
+          "mainGoal": "Keep bees active while continuing to chop trees and improve axes.",
+          "requiredStrength": "A steady chopping pace that lets you progress while honey builds in parallel.",
+          "resourceFocus": "Honey collection, bee hatching, and repeat tree clears.",
+          "recommendedPreparation": "Do not stop rolling axes; bees support the loop, they do not replace it."
+        },
+        {
+          "zoneStage": "Rebirth-supported progression",
+          "mainGoal": "Use rebirth Luck to improve future axe rolls and push past slower tree progress.",
+          "requiredStrength": "Current progress has slowed enough that more Luck is worth more than staying on the same run.",
+          "resourceFocus": "Luck, stronger axe rolls, rebuilt skill progress, and zone recovery.",
+          "recommendedPreparation": "Claim the +1 Luck group bonus, rebirth at a slowdown point, then roll before pushing hard again."
+        },
+        {
+          "zoneStage": "Later zone grind",
+          "mainGoal": "Repeat the full loop until stronger trees and new zones become manageable.",
+          "requiredStrength": "A stronger axe roll backed by upgraded skills, honey progress, and rebirth Luck.",
+          "resourceFocus": "High-value chopping cycles, honey, Luck, and zone unlock progress.",
+          "recommendedPreparation": "Rotate between axe rolling, skill upgrades, bee progress, and rebirth instead of forcing one system forever."
+        }
       ]
     }
   },
@@ -284,14 +566,38 @@
     "titleHighlight": "Questions",
     "subtitle": "Everything you need to know about Axe RNG",
     "questions": [
-      { "question": "What is Axe RNG?", "answer": "Axe RNG is a Roblox RNG lumberjack simulator by Chopsy Games. You roll for axes, chop trees, upgrade skills, hatch bees, collect honey, rebirth for more Luck, and progress through new zones." },
-      { "question": "Where can I play Axe RNG?", "answer": "Axe RNG is free to play on Roblox through the official experience page. Use the official Roblox link to avoid fake mirrors and unofficial downloads." },
-      { "question": "How do I redeem Axe RNG codes?", "answer": "Open Axe RNG on Roblox, tap the Shop icon, scroll to the bottom, paste a code into the code box, and press Claim. Codes are case-sensitive and one-time use per account." },
-      { "question": "What do Axe RNG codes give you?", "answer": "Axe RNG codes give free potions, honey, crystals, Luck boosts, and axe rewards such as the Shiny Broad Axe from the THANKYOU code." },
-      { "question": "How does rebirth work in Axe RNG?", "answer": "Rebirth in Axe RNG increases your Luck, which improves future axe rolls. Rebirth when your current run slows down so the long-term Luck gain is worth the reset." },
-      { "question": "What are bees and honey for in Axe RNG?", "answer": "In Axe RNG, bees and honey are part of the progression loop. Hatch bees after your chopping is stable, then collect honey as a resource that supports long-term growth." },
-      { "question": "Is Axe RNG free to play?", "answer": "Yes. Axe RNG is free to play on Roblox. You only need a Roblox account and the official game link to start rolling axes and chopping trees." },
-      { "question": "Who made Axe RNG?", "answer": "Axe RNG is made by Chopsy Games and published under the Chopsy Games Roblox community, which also offers a +1 Luck bonus for joining the group." }
+      {
+        "question": "What is Axe RNG?",
+        "answer": "Axe RNG is a Roblox RNG lumberjack simulator by Chopsy Games. You roll for axes, chop trees, upgrade skills, hatch bees, collect honey, rebirth for more Luck, and progress through new zones."
+      },
+      {
+        "question": "Where can I play Axe RNG?",
+        "answer": "Axe RNG is free to play on Roblox through the official experience page. Use the official Roblox link to avoid fake mirrors and unofficial downloads."
+      },
+      {
+        "question": "How do I redeem Axe RNG codes?",
+        "answer": "Open Axe RNG on Roblox, tap the Shop icon, scroll to the bottom, paste a code into the code box, and press Claim. Codes are case-sensitive and one-time use per account."
+      },
+      {
+        "question": "What do Axe RNG codes give you?",
+        "answer": "Axe RNG codes give free potions, honey, crystals, Luck boosts, and axe rewards such as the Shiny Broad Axe from the THANKYOU code."
+      },
+      {
+        "question": "How does rebirth work in Axe RNG?",
+        "answer": "Rebirth in Axe RNG increases your Luck, which improves future axe rolls. Rebirth when your current run slows down so the long-term Luck gain is worth the reset."
+      },
+      {
+        "question": "What are bees and honey for in Axe RNG?",
+        "answer": "In Axe RNG, bees and honey are part of the progression loop. Hatch bees after your chopping is stable, then collect honey as a resource that supports long-term growth."
+      },
+      {
+        "question": "Is Axe RNG free to play?",
+        "answer": "Yes. Axe RNG is free to play on Roblox. You only need a Roblox account and the official game link to start rolling axes and chopping trees."
+      },
+      {
+        "question": "Who made Axe RNG?",
+        "answer": "Axe RNG is made by Chopsy Games and published under the Chopsy Games Roblox community, which also offers a +1 Luck bonus for joining the group."
+      }
     ]
   },
   "cta": {
@@ -337,35 +643,15 @@
       "featured": "Featured & Essential",
       "all": "All Codes"
     },
-    "redeem": {
-      "title": "Axe RNG Redeem Guide",
-      "description": "Step-by-step instructions for redeeming Axe RNG codes and fixing codes that do not work.",
-      "metaTitle": "How to Redeem Axe RNG Codes - Step by Step",
-      "metaDescription": "Learn exactly how to redeem Axe RNG codes in the Shop menu, plus fixes for capitalization, expired codes, and old server issues.",
-      "categoryLabel": "AXE RNG REDEEM",
-      "whatIs": "How do you redeem codes in Axe RNG?",
-      "whatIsDescription": "To redeem Axe RNG codes, open the game, tap the Shop icon, scroll to the code box, paste a code, and press Claim. Codes are case-sensitive and one-time use per Roblox account.",
-      "why": "Why read the redeem guide?",
-      "whySteps": {
-        "step1Title": "Avoid Common Mistakes",
-        "step1Description": "Wrong capitalization, extra spaces, and expired codes are the most frequent redeem failures.",
-        "step2Title": "Use a Fresh Server",
-        "step2Description": "After updates, joining a newer server often fixes codes that appear invalid.",
-        "step3Title": "Redeem Each Code Once",
-        "step3Description": "Each Axe RNG code works once per account, so claim them in order without repeats."
-      },
-      "featured": "Featured & Essential",
-      "all": "All Redeem Guides"
-    },
-    "beginner": {
-      "title": "Axe RNG Beginner Guide",
-      "description": "The first-session loop: roll axes, equip, chop trees, upgrade skills, hatch bees, and prepare for rebirth.",
-      "metaTitle": "Axe RNG Beginner Guide - How to Start Strong",
-      "metaDescription": "A practical Axe RNG beginner guide covering rolling axes, chopping trees, upgrading skills, hatching bees, collecting honey, and timing your first rebirth.",
-      "categoryLabel": "AXE RNG BEGINNER",
-      "whatIs": "What is the Axe RNG beginner loop?",
+    "guide": {
+      "title": "Axe RNG Guide",
+      "description": "Complete Axe RNG guides covering the core loop, progression, tips, and free-to-play strategies.",
+      "metaTitle": "Axe RNG Guide - Tips, Progression & How to Play",
+      "metaDescription": "Browse Axe RNG guides on the core gameplay loop, beginner tips, progression routes, how to play, and free-to-play strategies.",
+      "categoryLabel": "AXE RNG GUIDES",
+      "whatIs": "What is the Axe RNG guide?",
       "whatIsDescription": "The Axe RNG beginner loop is roll axes, equip the best one, chop trees for resources, upgrade skills, hatch bees for honey, push into new zones, and rebirth when Luck gain is worth it.",
-      "why": "Why read the beginner guide?",
+      "why": "Why read the Axe RNG guide?",
       "whySteps": {
         "step1Title": "Roll and Equip Early",
         "step1Description": "Replace weak starting axes quickly because chopping speed drives every later goal.",
@@ -375,7 +661,27 @@
         "step3Description": "Rebirth only when your current run slows, so the Luck reset pays off."
       },
       "featured": "Featured & Essential",
-      "all": "All Beginner Guides"
+      "all": "All Guides"
+    },
+    "bees": {
+      "title": "Axe RNG Bees and Honey",
+      "description": "How to hatch bees, collect honey, and use honey as a progression resource.",
+      "metaTitle": "Axe RNG Bees & Honey - Hatch, Collect & Progress",
+      "metaDescription": "Learn how bees and honey fit the Axe RNG loop: when to hatch bees, why honey matters, and how to keep the resource moving while you chop trees.",
+      "categoryLabel": "AXE RNG BEES",
+      "whatIs": "What are bees and honey in Axe RNG?",
+      "whatIsDescription": "Bees and honey are a parallel progression layer in Axe RNG. After rolling axes and chopping trees, you hatch bees and collect honey as a resource that supports long-term growth.",
+      "why": "Why care about bees and honey?",
+      "whySteps": {
+        "step1Title": "Start at the Right Time",
+        "step1Description": "Hatch bees once your chopping pace is stable so honey builds alongside tree farming.",
+        "step2Title": "Keep the Loop Running",
+        "step2Description": "Bees support the main loop; they do not replace rolling axes and chopping trees.",
+        "step3Title": "Avoid the Common Mistake",
+        "step3Description": "Do not wait too long to start the bee loop, or honey progress falls behind."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Bees Guides"
     },
     "axes": {
       "title": "Axe RNG Axes",
@@ -417,65 +723,65 @@
       "featured": "Featured & Essential",
       "all": "All Tree Guides"
     },
-    "bees": {
-      "title": "Axe RNG Bees and Honey",
-      "description": "How to hatch bees, collect honey, and use honey as a progression resource.",
-      "metaTitle": "Axe RNG Bees & Honey - Hatch, Collect & Progress",
-      "metaDescription": "Learn how bees and honey fit the Axe RNG loop: when to hatch bees, why honey matters, and how to keep the resource moving while you chop trees.",
-      "categoryLabel": "AXE RNG BEES",
-      "whatIs": "What are bees and honey in Axe RNG?",
-      "whatIsDescription": "Bees and honey are a parallel progression layer in Axe RNG. After rolling axes and chopping trees, you hatch bees and collect honey as a resource that supports long-term growth.",
-      "why": "Why care about bees and honey?",
+    "luck": {
+      "title": "Axe RNG Luck",
+      "description": "How Luck works, the best Luck boosts, max Luck, and how rebirth raises your Luck ceiling.",
+      "metaTitle": "Axe RNG Luck - Boosts, Max Luck & Rare Rolls",
+      "metaDescription": "Master Axe RNG Luck: the best Luck boosts, how to reach max Luck, rarest biome rolls, and how rebirth permanently raises your Luck.",
+      "categoryLabel": "AXE RNG LUCK",
+      "whatIs": "What is Luck in Axe RNG?",
+      "whatIsDescription": "Luck in Axe RNG controls how often you roll rarer, stronger axes. Higher Luck improves your roll outcomes, and rebirth is the main way to permanently raise your Luck ceiling over time.",
+      "why": "Why raise your Luck?",
       "whySteps": {
-        "step1Title": "Start at the Right Time",
-        "step1Description": "Hatch bees once your chopping pace is stable so honey builds alongside tree farming.",
-        "step2Title": "Keep the Loop Running",
-        "step2Description": "Bees support the main loop; they do not replace rolling axes and chopping trees.",
-        "step3Title": "Avoid the Common Mistake",
-        "step3Description": "Do not wait too long to start the bee loop, or honey progress falls behind."
+        "step1Title": "Better Axe Rolls",
+        "step1Description": "More Luck means rarer axes drop more often, which speeds up chopping and zone clearing.",
+        "step2Title": "Stack Luck Boosts",
+        "step2Description": "Claim the +1 Luck group bonus and use Luck potions before focused rolling sessions.",
+        "step3Title": "Grow Luck Through Rebirth",
+        "step3Description": "Rebirth permanently increases your Luck, so each new run rolls stronger axes than the last."
       },
       "featured": "Featured & Essential",
-      "all": "All Bees Guides"
+      "all": "All Luck Guides"
     },
-    "rebirth": {
-      "title": "Axe RNG Rebirth and Luck",
-      "description": "When to rebirth, what resets, and how rebirth increases Luck for better rolls.",
-      "metaTitle": "Axe RNG Rebirth Guide - Timing & Luck Boosts",
-      "metaDescription": "Master Axe RNG rebirth: when to reset, how Luck improves future axe rolls, and how to time Luck boosts before serious rolling.",
-      "categoryLabel": "AXE RNG REBIRTH",
-      "whatIs": "How does rebirth work in Axe RNG?",
-      "whatIsDescription": "Rebirth in Axe RNG increases your Luck, which improves future axe rolls. You rebirth when your current run slows down, trading short-term progress for long-term Luck gains.",
-      "why": "Why plan your rebirth?",
+    "upgrades": {
+      "title": "Axe RNG Upgrades",
+      "description": "Skill and upgrade trees, priority order, and how to spend resources for faster chopping.",
+      "metaTitle": "Axe RNG Upgrades - Skills, Upgrade Tree & Priority",
+      "metaDescription": "Master Axe RNG upgrades: skill trees, upgrade priority, max upgrades, and where to spend resources for the fastest chopping and zone progress.",
+      "categoryLabel": "AXE RNG UPGRADES",
+      "whatIs": "What are upgrades in Axe RNG?",
+      "whatIsDescription": "Upgrades in Axe RNG are skill-tree boosts that improve chopping power, roll quality, bee output, and honey gain. Spending resources on the right upgrades speeds up every part of the core loop.",
+      "why": "Why plan your upgrades?",
       "whySteps": {
-        "step1Title": "Time the Reset",
-        "step1Description": "Rebirth when stronger rolls and zone progress stop coming at a useful pace.",
-        "step2Title": "Stack Luck First",
-        "step2Description": "Claim the +1 Luck group bonus and prepare boosts before important rolls.",
-        "step3Title": "Rebuild After Rebirth",
-        "step3Description": "Roll a stronger axe first, then rebuild chopping speed, skills, and bees."
+        "step1Title": "Spend Resources Smartly",
+        "step1Description": "Focus upgrades on chopping power and Luck first, since they unlock every other system faster.",
+        "step2Title": "Follow the Upgrade Tree",
+        "step2Description": "Work through the skill tree in priority order so each boost compounds on the last.",
+        "step3Title": "Reach Max Upgrades",
+        "step3Description": "Push toward max upgrades to keep chopping speed and roll quality ahead of harder zones."
       },
       "featured": "Featured & Essential",
-      "all": "All Rebirth Guides"
+      "all": "All Upgrade Guides"
     },
-    "zones": {
-      "title": "Axe RNG Zones",
-      "description": "Zone order, entry requirements, and the resource focus for each area.",
-      "metaTitle": "Axe RNG Zones - Progression Route & Requirements",
-      "metaDescription": "Plan your Axe RNG zone progression: the order to enter each area, the strength required, the resources to focus on, and how to prepare.",
-      "categoryLabel": "AXE RNG ZONES",
-      "whatIs": "How do zones work in Axe RNG?",
-      "whatIsDescription": "Zones are the visible progress path in Axe RNG. You move into new zones by improving axes, chopping stronger trees, upgrading skills, building bees, and using rebirth Luck.",
-      "why": "Why plan zone progression?",
+    "farming": {
+      "title": "Axe RNG Farming",
+      "description": "Farming methods, resource routes, and how to build wealth efficiently.",
+      "metaTitle": "Axe RNG Farming - Best Methods & Resource Guide",
+      "metaDescription": "Learn the best Axe RNG farming methods, fastest resource routes, and how to make billions through efficient chopping, upgrades, and bees.",
+      "categoryLabel": "AXE RNG FARMING",
+      "whatIs": "What is farming in Axe RNG?",
+      "whatIsDescription": "Farming in Axe RNG is the process of repeating high-yield chopping, bee, and honey loops to build resources and money fast. Efficient farming funds your upgrades, axe rolling, and zone pushes.",
+      "why": "Why optimize your farming?",
       "whySteps": {
-        "step1Title": "Clear Before You Push",
-        "step1Description": "Make current trees routine before moving into harder zones.",
-        "step2Title": "Match Strength to Zone",
-        "step2Description": "Each zone demands a stronger axe roll backed by upgrades and honey.",
-        "step3Title": "Rotate the Full Loop",
-        "step3Description": "Cycle between rolling, upgrading, bees, and rebirth instead of forcing one system."
+        "step1Title": "Pick the Best Method",
+        "step1Description": "Choose farming spots and tree types that drop the resources you need right now.",
+        "step2Title": "Farm Faster",
+        "step2Description": "Combine a strong axe, the right upgrades, and bees to multiply your resource output.",
+        "step3Title": "Turn Resources Into Progress",
+        "step3Description": "Reinvest farmed resources into upgrades and Luck so each session earns more than the last."
       },
       "featured": "Featured & Essential",
-      "all": "All Zones Guides"
+      "all": "All Farming Guides"
     }
   }
 }
