@@ -10,14 +10,7 @@
       "twitterDescription": "Axe RNG Wiki covers Roblox codes, redeem steps, rare axes, bees, honey, upgrades, zones and rebirth tips for Chopsy Games' RNG tree-chopping simulator."
     }
   },
-  "nav": {
-    "guides": "Guides",
-    "crafting": "Crafting",
-    "items": "Items",
-    "biomes": "Biomes",
-    "building": "Building",
-    "support": "Support"
-  },
+  "nav": {},
   "common": {
     "home": "Home",
     "more": "More",
