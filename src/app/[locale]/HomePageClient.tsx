@@ -2,21 +2,42 @@
 
 import { useState, Suspense, lazy } from "react";
 import {
+  AlertCircle,
   AlertTriangle,
+  ArrowLeftRight,
   ArrowRight,
   BookOpen,
   Bug,
   Check,
   ChevronDown,
+  Coins,
   Copy,
+  Dices,
+  Egg,
   ExternalLink,
+  Flower,
+  Flower2,
+  Footprints,
   Gamepad2,
   Gift,
   Hammer,
+  Hexagon,
+  Hourglass,
+  Jar,
+  Link2,
   Map as MapIcon,
+  Repeat,
+  RotateCcw,
+  RotateCw,
   RefreshCw,
   Sparkles,
+  Sprout,
+  Target,
+  ThumbsUp,
   TrendingUp,
+  Trees,
+  Trophy,
+  Zap,
 } from "lucide-react";
 import type { LucideIcon } from "lucide-react";
 import { useMessages } from "next-intl";
@@ -202,6 +223,12 @@ export default function HomePageClient({
     "rebirth-luck",
     "zones-progression",
   ];
+
+  // Distinct lucide icons per card/row/item — no duplicates within any module
+  const skillsStepIcons = [Trees, Coins, Dices, Hexagon, RotateCw];
+  const beesFaqIcons = [Flower, Egg, Jar, Link2, ArrowLeftRight, AlertCircle];
+  const rebirthRowIcons = [ThumbsUp, Hourglass, Zap, Repeat, Target];
+  const zoneStageIcons = [Sprout, Footprints, Flower2, RotateCcw, Trophy];
 
   return (
     <div className="home-shell min-h-screen bg-background text-foreground">
@@ -712,29 +739,34 @@ export default function HomePageClient({
           />
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-3 md:gap-4">
-            {m.axeRngSkillsUpgrades.steps.map((step: any, i: number) => (
-              <div
-                key={i}
-                className="p-5 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors"
-              >
-                <div className="flex items-center gap-3 mb-3">
-                  <span className="flex-shrink-0 w-9 h-9 rounded-full bg-[hsl(var(--nav-theme)/0.2)] border border-[hsl(var(--nav-theme)/0.5)] flex items-center justify-center text-sm font-bold text-[hsl(var(--nav-theme-light))]">
-                    {i + 1}
-                  </span>
-                  <span className="text-xs px-2.5 py-1 rounded-full bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)] font-semibold text-[hsl(var(--nav-theme-light))]">
-                    {step.priority}
-                  </span>
+            {m.axeRngSkillsUpgrades.steps.map((step: any, i: number) => {
+              const StepIcon = skillsStepIcons[i];
+              return (
+                <div
+                  key={i}
+                  className="p-5 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors"
+                >
+                  <div className="flex items-center gap-3 mb-3">
+                    <span className="flex-shrink-0 w-10 h-10 rounded-xl bg-[hsl(var(--nav-theme)/0.15)] border border-[hsl(var(--nav-theme)/0.4)] flex items-center justify-center">
+                      <StepIcon className="w-5 h-5 text-[hsl(var(--nav-theme-light))]" />
+                    </span>
+                    <span className="text-xs px-2.5 py-1 rounded-full bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)] font-semibold text-[hsl(var(--nav-theme-light))]">
+                      {step.priority}
+                    </span>
+                  </div>
+                  <h3 className="font-bold text-lg mb-2">{step.title}</h3>
+                  <p className="text-sm text-muted-foreground mb-3">{step.action}</p>
+                  <div className="pt-2 border-t border-border/40">
+                    <p className="text-xs font-semibold uppercase tracking-wide text-[hsl(var(--nav-theme-light))] mb-1">
+                      Why it matters
+                    </p>
+                    <p className="text-xs text-muted-foreground/80">
+                      {step.whyItMatters}
+                    </p>
+                  </div>
                 </div>
-                <h3 className="font-bold text-lg mb-2">{step.title}</h3>
-                <p className="text-sm text-muted-foreground mb-2">{step.action}</p>
-                <div className="flex items-start gap-2 pt-2 border-t border-border/40">
-                  <TrendingUp className="w-4 h-4 text-[hsl(var(--nav-theme-light))] mt-0.5 flex-shrink-0" />
-                  <p className="text-xs text-muted-foreground/80">
-                    {step.whyItMatters}
-                  </p>
-                </div>
-              </div>
-            ))}
+              );
+            })}
           </div>
         </div>
       </section>
@@ -763,31 +795,37 @@ export default function HomePageClient({
           />
 
           <div className="max-w-3xl mx-auto space-y-2">
-            {m.axeRngBeesHoney.faqs.map((faq: any, index: number) => (
-              <div
-                key={index}
-                className="border border-border rounded-xl overflow-hidden bg-white/5"
-              >
-                <button
-                  onClick={() =>
-                    setBeesExpanded(beesExpanded === index ? null : index)
-                  }
-                  className="w-full flex items-center justify-between gap-3 p-4 md:p-5 text-left hover:bg-white/5 transition-colors"
+            {m.axeRngBeesHoney.faqs.map((faq: any, index: number) => {
+              const FaqIcon = beesFaqIcons[index];
+              return (
+                <div
+                  key={index}
+                  className="border border-border rounded-xl overflow-hidden bg-white/5"
                 >
-                  <span className="font-semibold text-sm md:text-base">
-                    {faq.question}
-                  </span>
-                  <ChevronDown
-                    className={`w-5 h-5 flex-shrink-0 transition-transform ${beesExpanded === index ? "rotate-180 text-[hsl(var(--nav-theme-light))]" : "text-muted-foreground"}`}
-                  />
-                </button>
-                {beesExpanded === index && (
-                  <div className="px-4 md:px-5 pb-4 md:pb-5 text-sm text-muted-foreground">
-                    {faq.answer}
-                  </div>
-                )}
-              </div>
-            ))}
+                  <button
+                    onClick={() =>
+                      setBeesExpanded(beesExpanded === index ? null : index)
+                    }
+                    className="w-full flex items-center gap-3 p-4 md:p-5 text-left hover:bg-white/5 transition-colors"
+                  >
+                    <span className="flex-shrink-0 w-8 h-8 rounded-lg bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)] flex items-center justify-center">
+                      <FaqIcon className="w-4 h-4 text-[hsl(var(--nav-theme-light))]" />
+                    </span>
+                    <span className="flex-1 font-semibold text-sm md:text-base">
+                      {faq.question}
+                    </span>
+                    <ChevronDown
+                      className={`w-5 h-5 flex-shrink-0 transition-transform ${beesExpanded === index ? "rotate-180 text-[hsl(var(--nav-theme-light))]" : "text-muted-foreground"}`}
+                    />
+                  </button>
+                  {beesExpanded === index && (
+                    <div className="px-4 md:px-5 pb-4 md:pb-5 pl-14 md:pl-[4.5rem] text-sm text-muted-foreground">
+                      {faq.answer}
+                    </div>
+                  )}
+                </div>
+              );
+            })}
           </div>
         </div>
       </section>
@@ -820,25 +858,31 @@ export default function HomePageClient({
                 </tr>
               </thead>
               <tbody>
-                {m.axeRngRebirthLuck.rows.map((r: any, i: number) => (
-                  <tr
-                    key={i}
-                    className="border-t border-border align-top hover:bg-white/[0.02] transition-colors"
-                  >
-                    <td className="p-3 md:p-4 font-semibold whitespace-nowrap">
-                      {r.timing}
-                    </td>
-                    <td className="p-3 md:p-4 text-muted-foreground">
-                      {r.action}
-                    </td>
-                    <td className="p-3 md:p-4 text-[hsl(var(--nav-theme-light))] font-medium">
-                      {r.benefit}
-                    </td>
-                    <td className="p-3 md:p-4 text-muted-foreground/80">
-                      {r.tradeoff}
-                    </td>
-                  </tr>
-                ))}
+                {m.axeRngRebirthLuck.rows.map((r: any, i: number) => {
+                  const RowIcon = rebirthRowIcons[i];
+                  return (
+                    <tr
+                      key={i}
+                      className="border-t border-border align-top hover:bg-white/[0.02] transition-colors"
+                    >
+                      <td className="p-3 md:p-4 font-semibold whitespace-nowrap">
+                        <span className="inline-flex items-center gap-2">
+                          <RowIcon className="w-4 h-4 text-[hsl(var(--nav-theme-light))] flex-shrink-0" />
+                          {r.timing}
+                        </span>
+                      </td>
+                      <td className="p-3 md:p-4 text-muted-foreground">
+                        {r.action}
+                      </td>
+                      <td className="p-3 md:p-4 text-[hsl(var(--nav-theme-light))] font-medium">
+                        {r.benefit}
+                      </td>
+                      <td className="p-3 md:p-4 text-muted-foreground/80">
+                        {r.tradeoff}
+                      </td>
+                    </tr>
+                  );
+                })}
               </tbody>
             </table>
           </div>
@@ -860,53 +904,56 @@ export default function HomePageClient({
           />
 
           <div className="space-y-3 md:space-y-4">
-            {m.axeRngZonesProgression.rows.map((r: any, i: number) => (
-              <div
-                key={i}
-                className="rounded-xl border border-border bg-white/[0.02] overflow-hidden"
-              >
-                <div className="flex items-center gap-3 p-4 md:p-5 bg-[hsl(var(--nav-theme)/0.08)] border-b border-[hsl(var(--nav-theme)/0.2)]">
-                  <span className="flex-shrink-0 w-9 h-9 rounded-lg bg-[hsl(var(--nav-theme))] text-white flex items-center justify-center font-bold">
-                    {i + 1}
-                  </span>
-                  <h3 className="font-bold text-base md:text-lg">
-                    {r.zoneStage}
-                  </h3>
+            {m.axeRngZonesProgression.rows.map((r: any, i: number) => {
+              const ZoneIcon = zoneStageIcons[i];
+              return (
+                <div
+                  key={i}
+                  className="rounded-xl border border-border bg-white/[0.02] overflow-hidden"
+                >
+                  <div className="flex items-center gap-3 p-4 md:p-5 bg-[hsl(var(--nav-theme)/0.08)] border-b border-[hsl(var(--nav-theme)/0.2)]">
+                    <span className="flex-shrink-0 w-9 h-9 rounded-lg bg-[hsl(var(--nav-theme))] text-white flex items-center justify-center">
+                      <ZoneIcon className="w-5 h-5" />
+                    </span>
+                    <h3 className="font-bold text-base md:text-lg">
+                      {r.zoneStage}
+                    </h3>
+                  </div>
+                  <div className="grid grid-cols-1 md:grid-cols-2 gap-4 p-4 md:p-5">
+                    <div>
+                      <p className="text-xs font-semibold uppercase tracking-wide text-muted-foreground/70 mb-1">
+                        Main Goal
+                      </p>
+                      <p className="text-sm text-muted-foreground">{r.mainGoal}</p>
+                    </div>
+                    <div>
+                      <p className="text-xs font-semibold uppercase tracking-wide text-muted-foreground/70 mb-1">
+                        Required Strength
+                      </p>
+                      <p className="text-sm text-muted-foreground">
+                        {r.requiredStrength}
+                      </p>
+                    </div>
+                    <div>
+                      <p className="text-xs font-semibold uppercase tracking-wide text-muted-foreground/70 mb-1">
+                        Resource Focus
+                      </p>
+                      <p className="text-sm text-muted-foreground">
+                        {r.resourceFocus}
+                      </p>
+                    </div>
+                    <div>
+                      <p className="text-xs font-semibold uppercase tracking-wide text-muted-foreground/70 mb-1">
+                        Recommended Preparation
+                      </p>
+                      <p className="text-sm text-muted-foreground">
+                        {r.recommendedPreparation}
+                      </p>
+                    </div>
+                  </div>
                 </div>
-                <div className="grid grid-cols-1 md:grid-cols-2 gap-4 p-4 md:p-5">
-                  <div>
-                    <p className="text-xs font-semibold uppercase tracking-wide text-muted-foreground/70 mb-1">
-                      Main Goal
-                    </p>
-                    <p className="text-sm text-muted-foreground">{r.mainGoal}</p>
-                  </div>
-                  <div>
-                    <p className="text-xs font-semibold uppercase tracking-wide text-muted-foreground/70 mb-1">
-                      Required Strength
-                    </p>
-                    <p className="text-sm text-muted-foreground">
-                      {r.requiredStrength}
-                    </p>
-                  </div>
-                  <div>
-                    <p className="text-xs font-semibold uppercase tracking-wide text-muted-foreground/70 mb-1">
-                      Resource Focus
-                    </p>
-                    <p className="text-sm text-muted-foreground">
-                      {r.resourceFocus}
-                    </p>
-                  </div>
-                  <div>
-                    <p className="text-xs font-semibold uppercase tracking-wide text-muted-foreground/70 mb-1">
-                      Recommended Preparation
-                    </p>
-                    <p className="text-sm text-muted-foreground">
-                      {r.recommendedPreparation}
-                    </p>
-                  </div>
-                </div>
-              </div>
-            ))}
+              );
+            })}
           </div>
         </div>
       </section>
