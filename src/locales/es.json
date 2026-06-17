@@ -1,1 +1,787 @@
-{}
+{
+  "seo": {
+    "home": {
+      "title": "Axe RNG Wiki - Códigos, Hachas, Abejas y Renacimiento",
+      "description": "Axe RNG Wiki cubre códigos de Roblox, pasos de canje, hachas raras, abejas, miel, mejoras, zonas y consejos de renacimiento para el simulador de tala de árboles RNG de Chopsy Games.",
+      "keywords": "Axe RNG, Roblox, códigos, hachas, abejas, miel, renacimiento, zonas",
+      "ogTitle": "Axe RNG Wiki - Códigos, Hachas, Abejas y Renacimiento",
+      "ogDescription": "Axe RNG Wiki cubre códigos de Roblox, pasos de canje, hachas raras, abejas, miel, mejoras, zonas y consejos de renacimiento para el simulador de tala de árboles RNG de Chopsy Games.",
+      "twitterTitle": "Axe RNG Wiki - Códigos, Hachas, Abejas y Renacimiento",
+      "twitterDescription": "Axe RNG Wiki cubre códigos de Roblox, pasos de canje, hachas raras, abejas, miel, mejoras, zonas y consejos de renacimiento para el simulador de tala de árboles RNG de Chopsy Games."
+    }
+  },
+  "nav": {
+    "codes": "Códigos",
+    "guide": "Guía",
+    "bees": "Abejas",
+    "axes": "Hachas",
+    "trees": "Árboles",
+    "luck": "Suerte",
+    "upgrades": "Mejoras",
+    "farming": "Cultivo"
+  },
+  "common": {
+    "home": "Inicio",
+    "more": "Más",
+    "playNow": "Jugar en Roblox",
+    "switchLanguage": "Cambiar idioma",
+    "switchTheme": "Cambiar tema",
+    "lightMode": "Modo claro",
+    "darkMode": "Modo oscuro",
+    "notFound": "Página no encontrada",
+    "notFoundDescription": "La página que buscas no existe.",
+    "backToHome": "Volver al inicio",
+    "relatedArticles": "Artículos relacionados",
+    "readMore": "Leer más",
+    "articlesComingSoon": "Artículos próximamente"
+  },
+  "hero": {
+    "badge": "Simulador de leñador RNG de Roblox",
+    "title": "Axe RNG Wiki",
+    "description": "Consigue hachas raras, tala árboles, cría abejas, recolecta miel, renace para tener más suerte y avanza por nuevas zonas en el simulador de leñador RNG de Roblox de Chopsy Games.",
+    "getFreeCodesCTA": "Obtener códigos gratis",
+    "playOnRobloxCTA": "Jugar en Roblox",
+    "stats": {
+      "stat1": {
+        "value": "6.5K",
+        "label": "Jugadores en línea"
+      },
+      "stat2": {
+        "value": "427.6K+",
+        "label": "Visitas totales"
+      },
+      "stat3": {
+        "value": "86%",
+        "label": "Calificación de usuario"
+      },
+      "stat4": {
+        "value": "44.8K+",
+        "label": "Miembros del grupo"
+      }
+    }
+  },
+  "gameFeature": {
+    "title": "Jugabilidad de Axe RNG",
+    "description": "Consigue hachas raras, tala árboles, cría abejas, recolecta miel, mejora habilidades y renace para tener más suerte a medida que avanzas por nuevas zonas en este simulador de leñador RNG de Roblox."
+  },
+  "tools": {
+    "title": "Axe RNG",
+    "titleHighlight": "Guías y Herramientas",
+    "subtitle": "Todo lo que necesitas para Axe RNG: códigos activos, pasos de canje, lanzamiento de hachas, abejas, miel, suerte de renacimiento y progresión de zona.",
+    "cards": [
+      {
+        "icon": "Gift",
+        "title": "Códigos y Canje",
+        "description": "Códigos activos de Axe RNG, recompensas y pasos de canje"
+      },
+      {
+        "icon": "Gamepad2",
+        "title": "Información oficial del juego",
+        "description": "Enlace oficial de Roblox, desarrollador y ciclo de juego"
+      },
+      {
+        "icon": "BookOpen",
+        "title": "Guía para principiantes",
+        "description": "Ciclo de la primera sesión desde el lanzamiento de hachas hasta el renacimiento"
+      },
+      {
+        "icon": "Hammer",
+        "title": "Lista de niveles de hachas",
+        "description": "Mejores hachas, rareza y estrategia de lanzamiento"
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "Habilidades y Mejoras",
+        "description": "Prioridad de mejora para talar y lanzar"
+      },
+      {
+        "icon": "Bug",
+        "title": "Abejas y Miel",
+        "description": "Cría abejas, recolecta miel y valor de progresión"
+      },
+      {
+        "icon": "RefreshCw",
+        "title": "Renacimiento y Suerte",
+        "description": "Momento del renacimiento y estrategia de aumento de suerte"
+      },
+      {
+        "icon": "Map",
+        "title": "Progresión de Zonas",
+        "description": "Orden de zonas, controles de fuerza y preparación"
+      }
+    ]
+  },
+  "modules": {
+    "axeRngCodes": {
+      "eyebrow": "Códigos",
+      "title": "Códigos de Axe RNG y Guía de Canje",
+      "subtitle": "Reclama pociones, miel, cristales y recompensas de hachas gratis antes de talar más árboles de los necesarios.",
+      "intro": "Usa estos códigos de Axe RNG en la caja de códigos de la Tienda del juego. Los códigos distinguen entre mayúsculas y minúsculas, suelen ser de un solo uso por cuenta y pueden requerir un servidor nuevo después de una actualización.",
+      "activeCodes": [
+        {
+          "code": "AWESOME",
+          "reward": "Pociones y mejoras",
+          "note": "Úsalo para mejoras de progresión general."
+        },
+        {
+          "code": "POTIONS",
+          "reward": "Recompensas de pociones gratis",
+          "note": "Úsalo antes de largas sesiones de tala o tiradas."
+        },
+        {
+          "code": "ULTRAX2",
+          "reward": "Recompensas de Poción de Suerte Ultra",
+          "note": "Mejor guardado para tiradas de hachas enfocadas."
+        },
+        {
+          "code": "SWEETBOOST",
+          "reward": "Recompensas de Poción de Troncos y Poción de Miel",
+          "note": "Útil para la recolección de recursos."
+        },
+        {
+          "code": "THANKYOU",
+          "reward": "1 Hacha Ancha Brillante",
+          "note": "Equípala temprano para una opción de hacha inicial más fuerte."
+        },
+        {
+          "code": "FUSIONISHERE",
+          "reward": "2 Pociones de Súper Suerte",
+          "note": "Úsalo al tirar para hachas más fuertes."
+        },
+        {
+          "code": "FUSIONSOON",
+          "reward": "1 Poción de Súper Suerte",
+          "note": "Guárdala para una sesión de tiradas real, no para presionar botones al azar."
+        },
+        {
+          "code": "SUPERLUCK",
+          "reward": "1 Poción de Súper Suerte",
+          "note": "Úsalo para intentos de tirada mejorados."
+        },
+        {
+          "code": "SMALLCHANGES",
+          "reward": "2 Pociones de Velocidad y 2 Pociones de Suerte",
+          "note": "Bueno tanto para tirar como para una recolección temprana más rápida."
+        },
+        {
+          "code": "ADMINABUSESOON",
+          "reward": "2 Pociones de Súper Suerte",
+          "note": "Úsalo durante una ventana de tiradas afortunada."
+        },
+        {
+          "code": "CRYSTALS",
+          "reward": "500 Cristales",
+          "note": "Útil para mejoras tempranas y compras de progresión."
+        },
+        {
+          "code": "SWEET",
+          "reward": "2,000 Miel",
+          "note": "Útil para la progresión relacionada con abejas y miel."
+        }
+      ],
+      "expiredCodes": [
+        {
+          "code": "PATCHY",
+          "reward": "250 Cristales y 1 Poción de Troncos",
+          "note": "Se mantiene en la lista para que los jugadores que regresan sepan por qué ya no funciona."
+        }
+      ],
+      "redeemSteps": [
+        "Abre Axe RNG en Roblox.",
+        "Termina el breve tutorial si el botón de la Tienda aún no está disponible.",
+        "Toca el icono de la Tienda en el lado derecho de la pantalla.",
+        "Desplázate hasta la parte inferior del menú de la Tienda.",
+        "Pega el código en la caja de códigos exactamente como se muestra.",
+        "Presiona Reclamar para recibir la recompensa."
+      ],
+      "codeFixes": [
+        "Verifica las mayúsculas antes de reclamar.",
+        "Reinicia el juego y únete a un servidor más nuevo después de una actualización reciente.",
+        "Evita espacios adicionales antes o después del código.",
+        "Canjea cada código solo una vez por cuenta de Roblox.",
+        "Usa los códigos relacionados con actualizaciones rápidamente porque los códigos de juegos de Roblox pueden caducar sin una advertencia prolongada."
+      ]
+    },
+    "axeRngOfficialInfo": {
+      "eyebrow": "Información Oficial",
+      "title": "Enlace Oficial de Roblox y Información del Juego Axe RNG",
+      "subtitle": "Juega la verdadera experiencia Axe RNG de Chopsy Games en Roblox, no en alguna página de descarga misteriosa.",
+      "intro": "Axe RNG es un simulador incremental de Roblox donde los jugadores tiran para conseguir hachas, talan árboles, progresan por zonas, mejoran habilidades, crían abejas, recolectan miel y renacen para tener más suerte.",
+      "cards": [
+        {
+          "label": "Enlace Oficial para Jugar",
+          "value": "Axe RNG en Roblox",
+          "detail": "Usa la página oficial de la experiencia Roblox para jugar Axe RNG de forma segura.",
+          "href": "https://www.roblox.com/games/121863161094252/Axe-RNG"
+        },
+        {
+          "label": "Desarrollador",
+          "value": "Chopsy Games",
+          "detail": "Axe RNG se publica bajo la comunidad Roblox de Chopsy Games.",
+          "href": "https://www.roblox.com/communities/896806231/Chopsy-Games"
+        },
+        {
+          "label": "Comunidad Oficial",
+          "value": "Grupo de Roblox de Chopsy Games",
+          "detail": "Únete al grupo para el bono de +1 Suerte y acceso a futuras actualizaciones.",
+          "href": "https://www.roblox.com/communities/896806231/Chopsy-Games"
+        },
+        {
+          "label": "Servidor de Discord",
+          "value": "Discord de Chopsy Games",
+          "detail": "Usa la invitación de Discord para publicaciones de actualizaciones, anuncios de códigos, encuestas y discusión comunitaria.",
+          "href": "https://discord.com/invite/5pUHN6D4xH"
+        },
+        {
+          "label": "Bucle de Juego Principal",
+          "value": "Tirar hachas, talar árboles, mejorar, criar abejas, renacer",
+          "detail": "La descripción oficial del juego centra el bucle en conseguir hachas más fuertes, recolectar recursos, desbloquear zonas y aumentar la Suerte a través de los renacimientos."
+        },
+        {
+          "label": "ID de Experiencia de Roblox",
+          "value": "121863161094252",
+          "detail": "Este es el ID del lugar de la URL oficial del juego de Roblox."
+        },
+        {
+          "label": "ID de Universo",
+          "value": "10241922839",
+          "detail": "Este ID aparece en las URL de detalles del juego de Roblox para la experiencia Axe RNG."
+        },
+        {
+          "label": "Contexto de la Plataforma",
+          "value": "Experiencia de Roblox",
+          "detail": "Axe RNG debe jugarse a través de Roblox. Evita los espejos de APK, las páginas clonadas del navegador y las solicitudes de descarga no oficiales."
+        }
+      ]
+    },
+    "axeRngBeginnerGuide": {
+      "eyebrow": "Guía para Principiantes",
+      "title": "Guía para Principiantes de Axe RNG",
+      "subtitle": "Comienza tirando mejores hachas, talando árboles, mejorando habilidades, recolectando miel y renaciendo para tener más Suerte.",
+      "intro": "Axe RNG recompensa la progresión constante: tira para conseguir hachas más fuertes, úsalas para talar árboles más rápido, invierte recursos en mejoras, cría abejas para obtener miel, desbloquea nuevas zonas y renace cuando la ganancia de Suerte valga la pena reiniciar la progresión.",
+      "steps": [
+        {
+          "title": "Tira para tu primera hacha útil",
+          "action": "Usa el sistema de tiradas para conseguir un hacha más fuerte que tu opción inicial.",
+          "whyItMatters": "Las hachas impulsan la velocidad de tala, por lo que el progreso inicial depende de reemplazar rápidamente las tiradas débiles.",
+          "beginnerMistake": "Mantener un hacha débil demasiado tiempo porque parece aceptable."
+        },
+        {
+          "title": "Equipa la mejor hacha que tengas",
+          "action": "Después de tirar o reclamar un hacha de código, equipa el hacha más fuerte disponible antes de talar árboles.",
+          "whyItMatters": "Las mejores hachas reducen el tiempo necesario para talar árboles y recolectar recursos.",
+          "beginnerMistake": "Reclamar una recompensa de hacha más fuerte y olvidarse de equiparla."
+        },
+        {
+          "title": "Tala árboles para obtener recursos",
+          "action": "Tala árboles consistentemente para acumular los recursos necesarios para mejoras y progresión.",
+          "whyItMatters": "La tala de árboles es el principal bucle activo que alimenta el resto del juego.",
+          "beginnerMistake": "Tirar sin parar sin recolectar suficientes recursos para soportar las mejoras."
+        },
+        {
+          "title": "Mejora tus habilidades",
+          "action": "Gasta recursos en mejoras de habilidades cuando mejoren la tala, las tiradas o la velocidad de progresión general.",
+          "whyItMatters": "Las mejoras de habilidades hacen que cada sesión de tala futura sea más eficiente.",
+          "beginnerMistake": "Ahorrar recursos para siempre mientras se sigue talando lentamente."
+        },
+        {
+          "title": "Cría abejas y recolecta miel",
+          "action": "Usa el sistema de abejas y las recompensas de miel para apoyar la progresión a largo plazo.",
+          "whyItMatters": "El bucle oficial incluye la cría de abejas y la recolección de mucha miel, por lo que ignorar la miel ralentiza el crecimiento de la cuenta.",
+          "beginnerMistake": "Tratar a las abejas como decoración en lugar de parte del sistema de progresión."
+        },
+        {
+          "title": "Progresa por las zonas",
+          "action": "Muévete a nuevas zonas cuando la fuerza de tu hacha y tus mejoras hagan que los árboles actuales sean fáciles de talar.",
+          "whyItMatters": "Las zonas son parte del camino de progresión oficial y generalmente exigen herramientas más fuertes.",
+          "beginnerMistake": "Entrar en áreas más difíciles demasiado pronto y perder el tiempo en talas lentas."
+        },
+        {
+          "title": "Usa los potenciadores de Suerte antes de tirar seriamente",
+          "action": "Guarda las recompensas de pociones de Suerte, Súper Suerte y Ultra Suerte para sesiones de tiradas enfocadas.",
+          "whyItMatters": "La Suerte importa más cuando estás intentando activamente reemplazar tu hacha actual.",
+          "beginnerMistake": "Usar potenciadores de Suerte mientras apenas se tira."
+        },
+        {
+          "title": "Renace cuando la ganancia de Suerte valga la pena",
+          "action": "Renace para aumentar la Suerte después de que tu carrera actual se ralentice y el reinicio te dé mejores tiradas futuras.",
+          "whyItMatters": "El renacimiento aumenta la Suerte, lo que lo hace central para la progresión a largo plazo.",
+          "beginnerMistake": "Renacer demasiado pronto antes de obtener suficiente valor de la carrera actual."
+        },
+        {
+          "title": "Únete al grupo oficial para +1 Suerte",
+          "action": "Dale me gusta al juego, márcalo como favorito y únete al grupo de Roblox de Chopsy Games para el bono de Suerte indicado.",
+          "whyItMatters": "La descripción oficial de Roblox enumera un bono de +1 Suerte por darle me gusta, marcar como favorito y unirse al grupo.",
+          "beginnerMistake": "Saltarse un bono de Suerte gratis y luego culpar a los dados."
+        }
+      ]
+    },
+    "axeRngAxeTierList": {
+      "eyebrow": "Lista de Niveles",
+      "title": "Lista de Niveles de Hachas de Axe RNG y Estrategia de Tiradas",
+      "subtitle": "Prioriza las hachas que realmente mejoran la velocidad de tala, luego usa los potenciadores de Suerte cuando estés listo para tirar por una mejora significativa.",
+      "intro": "Esta lista de niveles para el juego temprano clasifica los resultados de las hachas de Axe RNG por su valor de progresión práctico: poder de tala inmediato, utilidad después de los códigos, si el hacha ayuda a desbloquear zonas más rápido y cuándo vale la pena volver a tirar.",
+      "tiers": [
+        {
+          "tier": "S",
+          "label": "Mejor Hacha para Conservar al Principio",
+          "entries": [
+            {
+              "name": "Shiny Broad Axe",
+              "type": "Recompensa de hacha por código",
+              "bestFor": "Cuentas nuevas, tala de árboles temprana y el primer impulso serio de progresión.",
+              "keepOrReroll": "Equípala inmediatamente y consérvala hasta que una tirada de mayor poder la supere claramente.",
+              "reason": "El código THANKYOU recompensa con una Shiny Broad Axe, lo que la convierte en la mejora de hacha temprana más clara disponible según los datos de códigos actuales."
+            }
+          ]
+        },
+        {
+          "tier": "A",
+          "label": "Mejoras de Tirada de Alto Valor",
+          "entries": [
+            {
+              "name": "Tiradas de hachas de mayor rareza",
+              "type": "Categoría de resultado de tirada",
+              "bestFor": "Reemplazar tu hacha actual cuando la tala de árboles comienza a sentirse lenta.",
+              "keepOrReroll": "Consérvala si mejora la velocidad de tala o te ayuda a manejar la siguiente zona más rápido.",
+              "reason": "La progresión de Axe RNG se basa en tirar hachas más fuertes y luego usarlas para talar árboles y avanzar por las zonas."
+            }
+          ]
+        },
+        {
+          "tier": "B",
+          "label": "Hachas Temporales Útiles",
+          "entries": [
+            {
+              "name": "Mejoras de poder de la misma etapa",
+              "type": "Hacha de progresión a corto plazo",
+              "bestFor": "Cerrar la brecha antes de una tirada rara o una mejora de hacha por código.",
+              "keepOrReroll": "Úsala temporalmente, pero sigue tirando una vez que los potenciadores de Suerte o los recursos estén listos.",
+              "reason": "Una pequeña mejora de hacha sigue siendo importante al principio porque cada tala de árbol más rápida alimenta las mejoras, la miel y el progreso de la zona."
+            }
+          ]
+        },
+        {
+          "tier": "C",
+          "label": "Hachas de Nivel Inicial",
+          "entries": [
+            {
+              "name": "Tiradas tempranas de bajo poder",
+              "type": "Categoría de reemplazo inicial",
+              "bestFor": "Solo los primeros minutos de juego.",
+              "keepOrReroll": "Reemplázala rápidamente una vez que obtengas la Shiny Broad Axe o cualquier tirada más fuerte.",
+              "reason": "Las hachas de bajo poder ralentizan la tala, lo que ralentiza todos los sistemas conectados: mejoras, abejas, miel y preparación para el renacimiento."
+            }
+          ]
+        },
+        {
+          "tier": "D",
+          "label": "Material para Volver a Tirar",
+          "entries": [
+            {
+              "name": "Tiradas duplicadas más débiles",
+              "type": "Resultado de tirada de bajo valor",
+              "bestFor": "Ningún uso serio después de equipar un hacha más fuerte.",
+              "keepOrReroll": "No bases tu plan de farmeo en estas; continúa tirando cuando puedas.",
+              "reason": "Los duplicados o resultados más débiles no mejoran la velocidad de tala, por lo que no impulsan significativamente la progresión."
+            }
+          ]
+        },
+        {
+          "tier": "Strategy",
+          "label": "Cuándo Gastar Potenciadores",
+          "entries": [
+            {
+              "name": "Sesiones de Super Luck y Ultra Luck",
+              "type": "Plan de tiempo de potenciadores",
+              "bestFor": "Tiradas enfocadas después de reclamar códigos como ADMINABUSESOON, FUSIONISHERE, FUSIONSOON, SUPERLUCK y ULTRAX2.",
+              "keepOrReroll": "Usa los potenciadores de Suerte solo cuando estés listo para tirar repetidamente, luego detente una vez que obtengas una mejora clara de hacha.",
+              "reason": "Los potenciadores de Suerte son más valiosos durante las tiradas concentradas que durante la tala casual de árboles."
+            },
+            {
+              "name": "Sesiones de farmeo de velocidad y recursos",
+              "type": "Plan de tiempo de farmeo",
+              "bestFor": "Usar SMALLCHANGES, SWEETBOOST, POTIONS, SWEET y CRYSTALS para acelerar el crecimiento temprano.",
+              "keepOrReroll": "Farmea y mejora primero si tu hacha actual ya tala árboles cómodamente.",
+              "reason": "Los potenciadores de recursos te ayudan a construir la base de mejoras necesaria para que las futuras tiradas y renacimientos sean más valiosos."
+            }
+          ]
+        }
+      ]
+    },
+    "axeRngSkillsUpgrades": {
+      "eyebrow": "Prioridad de Habilidades",
+      "title": "Orden de Mejora de Habilidades de Axe RNG",
+      "subtitle": "Mejora las habilidades en torno al ciclo principal: consigue hachas más fuertes, tala árboles más rápido, recolecta más recursos, incuba abejas y avanza a nuevas zonas.",
+      "intro": "Axe RNG recompensa la progresión constante más que el gasto aleatorio. Construye tus mejoras priorizando la tala de árboles más rápida, luego la obtención de recursos, las abejas, la miel y la suerte de renacimiento para que cada sistema alimente al siguiente.",
+      "steps": [
+        {
+          "priority": "Primero",
+          "title": "Mejorar la eficiencia de tala",
+          "action": "Invierte las primeras mejoras de habilidad en cualquier cosa que ayude a talar árboles más rápido o que haga que cada ciclo de tala sea más fluido.",
+          "whyItMatters": "Talar árboles es la acción principal después de conseguir hachas, por lo que una tala más rápida mejora todos los objetivos posteriores."
+        },
+        {
+          "priority": "Segundo",
+          "title": "Apoyar la obtención de recursos",
+          "action": "Una vez que la tala básica se sienta estable, concéntrate en mejoras que ayuden a la recolección de recursos de las talas repetidas de árboles.",
+          "whyItMatters": "Más recursos te dan más margen para mejorar, incubar abejas y prepararte para el progreso en zonas más difíciles."
+        },
+        {
+          "priority": "Tercero",
+          "title": "Sigue buscando hachas más fuertes",
+          "action": "Usa el progreso de habilidades para apoyar mejores tiradas de hachas en lugar de depender solo de tu hacha inicial.",
+          "whyItMatters": "El ciclo oficial comienza con la obtención de hachas poderosas, y las hachas más fuertes facilitan el progreso en árboles y zonas."
+        },
+        {
+          "priority": "Cuarto",
+          "title": "Añadir abejas a la rutina",
+          "action": "Una vez que la tala sea consistente, incuba abejas y sigue recolectando miel mientras continúas buscando y talando árboles.",
+          "whyItMatters": "Las abejas y la miel son parte del ciclo de progresión, no una decoración secundaria."
+        },
+        {
+          "priority": "Quinto",
+          "title": "Usa el renacimiento cuando el progreso se ralentice",
+          "action": "Renace después de que tu configuración actual de hacha y habilidades deje de avanzar eficientemente en las zonas.",
+          "whyItMatters": "El renacimiento aumenta la suerte, lo que ayuda a futuras tiradas y a la progresión a largo plazo."
+        }
+      ]
+    },
+    "axeRngBeesHoney": {
+      "eyebrow": "Abejas y Miel",
+      "title": "Abejas y Miel de Axe RNG Explicadas",
+      "subtitle": "Las abejas añaden una segunda capa de progresión al ciclo de buscar y talar. Incuba abejas, recolecta miel y mantén ese recurso en movimiento mientras tus hachas se encargan de los árboles.",
+      "intro": "El ciclo de juego oficial incluye la incubación de abejas y la recolección de mucha miel después de conseguir hachas, mejorar habilidades y talar árboles. Trata a las abejas como un motor paralelo que crece mientras avanzas por las zonas.",
+      "faqs": [
+        {
+          "question": "¿Para qué se usan las abejas en Axe RNG?",
+          "answer": "Las abejas son parte de la progresión de Axe RNG. El juego les dice a los jugadores que incuben nuevas abejas y luego recolecten miel mientras continúan buscando hachas y talando árboles."
+        },
+        {
+          "question": "¿Cuándo deben los principiantes incubar abejas en Axe RNG?",
+          "answer": "Comienza a incubar abejas después de tener un hacha utilizable y poder talar árboles iniciales de manera consistente. Eso mantiene el progreso de la miel en marcha mientras continúas trabajando en habilidades y zonas."
+        },
+        {
+          "question": "¿Por qué es importante la miel en Axe RNG?",
+          "answer": "La miel es el recurso ligado al sistema de abejas. Dado que Axe RNG destaca específicamente la recolección de mucha miel, pertenece a tu rutina de progresión regular en lugar de ser ignorada hasta más tarde."
+        },
+        {
+          "question": "¿Cómo se conectan las abejas con la tala de árboles en Axe RNG?",
+          "answer": "Las hachas se encargan de la tala de árboles, las habilidades mejoran tu progreso y las abejas añaden la recolección de miel a ese ciclo. La rutina limpia es: conseguir hachas, talar árboles, mejorar habilidades, incubar abejas, recolectar miel y luego avanzar en las zonas."
+        },
+        {
+          "question": "¿Debería la miel de Axe RNG ser prioritaria antes que las hachas más fuertes?",
+          "answer": "No. Las hachas más fuertes y la tala más fluida deben ser lo primero porque impulsan la ruta de progresión principal. Las abejas y la miel se vuelven más fuertes una vez que tu ritmo básico de tala ya está funcionando."
+        },
+        {
+          "question": "¿Cuál es el error común con la miel en Axe RNG?",
+          "answer": "El error habitual es esperar demasiado para iniciar el ciclo de las abejas. Incuba abejas una vez que el juego te dé una oportunidad práctica, luego deja que la miel se acumule mientras continúas talando y buscando."
+        }
+      ]
+    },
+    "axeRngRebirthLuck": {
+      "eyebrow": "Renacimiento y Suerte",
+      "title": "Momento del Renacimiento y Bonificaciones de Suerte en Axe RNG",
+      "subtitle": "El renacimiento aumenta la suerte, lo que lo convierte en uno de los sistemas a largo plazo más importantes en Axe RNG. Úsalo cuando tu progreso actual se ralentice, no cada vez que veas un botón.",
+      "intro": "La suerte importa porque Axe RNG comienza con la obtención de hachas. El renacimiento mejora la suerte para el progreso futuro, mientras que el juego también otorga una bonificación de +1 de suerte por dar 'me gusta', añadir a favoritos y unirse al grupo de Chopsy Games.",
+      "rows": [
+        {
+          "timing": "Antes de buscar seriamente",
+          "action": "Dale 'me gusta' al juego, añádelo a favoritos y únete al grupo de Chopsy Games.",
+          "benefit": "Bonificación de +1 de suerte de la descripción oficial del juego.",
+          "tradeoff": "Sin desventaja de progresión; esto debe hacerse temprano."
+        },
+        {
+          "timing": "Antes del primer renacimiento",
+          "action": "Impulsa tu hacha actual, habilidades, abejas y progreso de árboles hasta que la siguiente zona o los árboles más fuertes se sientan lentos.",
+          "benefit": "Obtienes más valor de la partida actual antes de pasar a un ciclo de reinicio centrado en la suerte.",
+          "tradeoff": "Esperar demasiado puede ralentizar futuras tiradas de hachas."
+        },
+        {
+          "timing": "Buena ventana de renacimiento",
+          "action": "Renace cuando las tiradas de hachas más fuertes y el progreso de zona dejen de llegar a un ritmo útil.",
+          "benefit": "El renacimiento aumenta la suerte, haciendo que las futuras tiradas sean más valiosas.",
+          "tradeoff": "Pausas el avance a corto plazo para mejorar la progresión a largo plazo."
+        },
+        {
+          "timing": "Después del renacimiento",
+          "action": "Busca un hacha más fuerte primero, luego reconstruye la velocidad de tala, el progreso de habilidades, las abejas y la recolección de miel.",
+          "benefit": "Una mayor suerte apoya el siguiente ciclo de búsqueda de hachas y avance de zonas.",
+          "tradeoff": "El progreso temprano después del renacimiento puede sentirse más lento hasta que la nueva configuración se ponga al día."
+        },
+        {
+          "timing": "Antes de avanzar en la zona",
+          "action": "Acumula el progreso de suerte disponible antes de dedicar tiempo a tiradas importantes de hachas.",
+          "benefit": "Mejores tiradas facilitan la tala de árboles más fuertes y el acceso a zonas posteriores.",
+          "tradeoff": "Buscar sin preparación de suerte puede hacer perder tiempo en resultados más débiles."
+        }
+      ]
+    },
+    "axeRngZonesProgression": {
+      "eyebrow": "Zonas y Árboles",
+      "title": "Ruta de Progresión de Zonas de Axe RNG",
+      "subtitle": "Progresa a través de las zonas mejorando hachas, talando árboles más fuertes, mejorando habilidades, construyendo abejas, recolectando miel y usando la Suerte de renacimiento.",
+      "intro": "Las zonas son el camino de progreso visible en Axe RNG. La ruta más segura es talar árboles cómodamente en tu área actual, mejorar habilidades, incubar abejas para obtener miel, y luego usar la Suerte de renacimiento y tiradas de hacha más fuertes para entrar en zonas más difíciles.",
+      "rows": [
+        {
+          "zoneStage": "Área de inicio",
+          "mainGoal": "Tirar un hacha utilizable y empezar a talar árboles de forma consistente.",
+          "requiredStrength": "Cualquier configuración de hacha que tale árboles iniciales sin mucho tiempo de inactividad.",
+          "resourceFocus": "Progreso básico de árboles y primeras mejoras de habilidades.",
+          "recommendedPreparation": "Prioriza la eficiencia de tala antes de distribuir el esfuerzo en cada sistema."
+        },
+        {
+          "zoneStage": "Primer empuje de zona",
+          "mainGoal": "Usar tiradas de hacha más fuertes y mejoras de habilidades tempranas para avanzar más allá del primer muro de árboles.",
+          "requiredStrength": "Un hacha lo suficientemente fuerte como para que los árboles actuales se sientan rutinarios.",
+          "resourceFocus": "Mejoras de habilidades, tala de árboles y configuración temprana de miel.",
+          "recommendedPreparation": "Tira por un hacha más fuerte, mejora habilidades útiles, luego comienza a incubar abejas una vez que la tala sea estable."
+        },
+        {
+          "zoneStage": "Acumulación de abejas y miel",
+          "mainGoal": "Mantener las abejas activas mientras se sigue talando árboles y mejorando hachas.",
+          "requiredStrength": "Un ritmo de tala constante que te permita progresar mientras la miel se acumula en paralelo.",
+          "resourceFocus": "Recolección de miel, incubación de abejas y talas de árboles repetidas.",
+          "recommendedPreparation": "No dejes de tirar hachas; las abejas apoyan el ciclo, no lo reemplazan."
+        },
+        {
+          "zoneStage": "Progresión apoyada por el renacimiento",
+          "mainGoal": "Usar la Suerte de renacimiento para mejorar futuras tiradas de hacha y superar el progreso más lento de los árboles.",
+          "requiredStrength": "El progreso actual se ha ralentizado lo suficiente como para que más Suerte valga más que permanecer en la misma partida.",
+          "resourceFocus": "Suerte, tiradas de hacha más fuertes, progreso de habilidades reconstruido y recuperación de zona.",
+          "recommendedPreparation": "Reclama el bono de grupo de +1 Suerte, renace en un punto de desaceleración, luego tira antes de volver a empujar con fuerza."
+        },
+        {
+          "zoneStage": "Molienda de zona posterior",
+          "mainGoal": "Repetir el ciclo completo hasta que los árboles más fuertes y las nuevas zonas se vuelvan manejables.",
+          "requiredStrength": "Una tirada de hacha más fuerte respaldada por habilidades mejoradas, progreso de miel y Suerte de renacimiento.",
+          "resourceFocus": "Ciclos de tala de alto valor, miel, Suerte y progreso de desbloqueo de zonas.",
+          "recommendedPreparation": "Rota entre tirar hachas, mejorar habilidades, progresar con las abejas y renacer en lugar de forzar un solo sistema para siempre."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "titleHighlight": "",
+    "subtitle": "Todo lo que necesitas saber sobre Axe RNG",
+    "questions": [
+      {
+        "question": "¿Qué es Axe RNG?",
+        "answer": "Axe RNG es un simulador de leñador RNG de Roblox creado por Chopsy Games. Tiras por hachas, talas árboles, mejoras habilidades, incubas abejas, recolectas miel, renaces para obtener más Suerte y progresas a través de nuevas zonas."
+      },
+      {
+        "question": "¿Dónde puedo jugar Axe RNG?",
+        "answer": "Axe RNG es gratis para jugar en Roblox a través de la página oficial de la experiencia. Usa el enlace oficial de Roblox para evitar espejos falsos y descargas no oficiales."
+      },
+      {
+        "question": "¿Cómo canjeo códigos de Axe RNG?",
+        "answer": "Abre Axe RNG en Roblox, toca el icono de la Tienda, desplázate hasta abajo, pega un código en la caja de códigos y presiona Reclamar. Los códigos distinguen entre mayúsculas y minúsculas y son de un solo uso por cuenta."
+      },
+      {
+        "question": "¿Qué te dan los códigos de Axe RNG?",
+        "answer": "Los códigos de Axe RNG te dan pociones gratis, miel, cristales, mejoras de Suerte y recompensas de hacha como el Hacha Ancha Brillante del código THANKYOU."
+      },
+      {
+        "question": "¿Cómo funciona el renacimiento en Axe RNG?",
+        "answer": "El renacimiento en Axe RNG aumenta tu Suerte, lo que mejora futuras tiradas de hacha. Renace cuando tu partida actual se ralentice para que la ganancia de Suerte a largo plazo valga la pena el reinicio."
+      },
+      {
+        "question": "¿Para qué sirven las abejas y la miel en Axe RNG?",
+        "answer": "En Axe RNG, las abejas y la miel son parte del ciclo de progresión. Incuba abejas después de que tu tala sea estable, luego recolecta miel como un recurso que apoya el crecimiento a largo plazo."
+      },
+      {
+        "question": "¿Es Axe RNG gratis para jugar?",
+        "answer": "Sí. Axe RNG es gratis para jugar en Roblox. Solo necesitas una cuenta de Roblox y el enlace oficial del juego para empezar a tirar hachas y talar árboles."
+      },
+      {
+        "question": "¿Quién hizo Axe RNG?",
+        "answer": "Axe RNG fue creado por Chopsy Games y publicado bajo la comunidad de Roblox de Chopsy Games, que también ofrece un bono de +1 Suerte por unirte al grupo."
+      }
+    ]
+  },
+  "cta": {
+    "title": "¿Listo para jugar Axe RNG?",
+    "description": "Tira hachas raras, tala árboles y renace para tener más suerte en el simulador de leñador RNG de Roblox de Chopsy Games. ¡Únete a la comunidad de Chopsy Games para guías y actualizaciones!",
+    "joinCommunity": "Unirse al Grupo de Roblox",
+    "joinGame": "Jugar en Roblox"
+  },
+  "footer": {
+    "title": "Axe RNG Wiki",
+    "description": "Tu centro de recursos completo para códigos de Axe RNG, pasos para canjear, hachas, abejas, miel, zonas y consejos de renacimiento para el simulador de leñador RNG de Chopsy Games en Roblox.",
+    "resources": "Recursos",
+    "community": "Comunidad",
+    "legal": "Legal",
+    "robloxGame": "Jugar en Roblox",
+    "robloxGroup": "Grupo de Chopsy Games",
+    "youtube": "Ver Gameplay",
+    "about": "Acerca de",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio",
+    "copyrightNotice": "Derechos de autor",
+    "copyright": "© 2026 Axe RNG Wiki. No afiliado con Chopsy Games ni con los desarrolladores de Axe RNG.",
+    "disclaimer": "Sitio web de recursos no oficial creado por fans."
+  },
+  "pages": {
+    "codes": {
+      "title": "Códigos de Axe RNG",
+      "description": "Todos los códigos activos de Axe RNG, códigos expirados, tipos de recompensas y pasos para canjear en un solo lugar.",
+      "metaTitle": "Códigos de Axe RNG - Códigos Activos y Expirados (Actualizado)",
+      "metaDescription": "Encuentra cada código activo de Axe RNG, las recompensas que otorga cada uno, el estado de expiración y los pasos exactos para canjear dentro del menú de la Tienda.",
+      "categoryLabel": "CÓDIGOS DE AXE RNG",
+      "whatIs": "¿Qué son los códigos de Axe RNG?",
+      "whatIsDescription": "Los códigos de Axe RNG son cadenas canjeables gratuitas que otorgan pociones, miel, cristales, potenciadores de Suerte y recompensas de hachas. Se ingresan en el cuadro de códigos de la Tienda del juego y suelen ser de un solo uso por cuenta.",
+      "why": "¿Por qué revisar los códigos de Axe RNG?",
+      "whySteps": {
+        "step1Title": "Potenciadores de Progresión Gratuitos",
+        "step1Description": "Los códigos otorgan pociones, miel y potenciadores de Suerte que aceleran el giro de hachas inicial y la tala de árboles.",
+        "step2Title": "Reclama Recompensas de Hachas Tempranas",
+        "step2Description": "Algunos códigos recompensan con hachas como la Shiny Broad Axe, dándote una herramienta inicial más fuerte.",
+        "step3Title": "Mantente Actualizado",
+        "step3Description": "Los códigos de los juegos de Roblox pueden expirar rápidamente después de las actualizaciones, por lo que revisarlos regularmente mantiene tus recompensas activas."
+      },
+      "featured": "Destacados y Esenciales",
+      "all": "Todos los Códigos"
+    },
+    "guide": {
+      "title": "Guía de Axe RNG",
+      "description": "Guías completas de Axe RNG que cubren el ciclo principal, la progresión, consejos y estrategias para jugadores gratuitos.",
+      "metaTitle": "Guía de Axe RNG - Consejos, Progresión y Cómo Jugar",
+      "metaDescription": "Explora las guías de Axe RNG sobre el ciclo de juego principal, consejos para principiantes, rutas de progresión, cómo jugar y estrategias para jugadores gratuitos.",
+      "categoryLabel": "GUÍAS DE AXE RNG",
+      "whatIs": "¿Qué es la guía de Axe RNG?",
+      "whatIsDescription": "El ciclo para principiantes de Axe RNG consiste en girar hachas, equipar la mejor, talar árboles para obtener recursos, mejorar habilidades, eclosionar abejas para obtener miel, avanzar a nuevas zonas y renacer cuando la ganancia de Suerte valga la pena.",
+      "why": "¿Por qué leer la guía de Axe RNG?",
+      "whySteps": {
+        "step1Title": "Gira y Equipa Temprano",
+        "step1Description": "Reemplaza las hachas iniciales débiles rápidamente porque la velocidad de tala impulsa cada objetivo posterior.",
+        "step2Title": "Farmea Antes de Gastar",
+        "step2Description": "Tala árboles de manera constante para que las mejoras y las abejas tengan recursos con los que trabajar.",
+        "step3Title": "Sincroniza tu Renacimiento",
+        "step3Description": "Renace solo cuando tu partida actual se ralentice, para que el reinicio de Suerte valga la pena."
+      },
+      "featured": "Destacados y Esenciales",
+      "all": "Todas las Guías"
+    },
+    "bees": {
+      "title": "Abejas y Miel en Axe RNG",
+      "description": "Cómo eclosionar abejas, recolectar miel y usar la miel como recurso de progresión.",
+      "metaTitle": "Abejas y Miel en Axe RNG - Eclosión, Recolección y Progresión",
+      "metaDescription": "Aprende cómo las abejas y la miel encajan en el ciclo de Axe RNG: cuándo eclosionar abejas, por qué la miel es importante y cómo mantener el flujo de recursos mientras talas árboles.",
+      "categoryLabel": "ABEJAS DE AXE RNG",
+      "whatIs": "¿Qué son las abejas y la miel en Axe RNG?",
+      "whatIsDescription": "Las abejas y la miel son una capa de progresión paralela en Axe RNG. Después de girar hachas y talar árboles, eclosionas abejas y recolectas miel como un recurso que apoya el crecimiento a largo plazo.",
+      "why": "¿Por qué preocuparse por las abejas y la miel?",
+      "whySteps": {
+        "step1Title": "Comienza en el Momento Adecuado",
+        "step1Description": "Eclosiona abejas una vez que tu ritmo de tala sea estable para que la miel se acumule junto con el farmeo de árboles.",
+        "step2Title": "Mantén el Ciclo en Marcha",
+        "step2Description": "Las abejas apoyan el ciclo principal; no reemplazan el girar hachas ni el talar árboles.",
+        "step3Title": "Evita el Error Común",
+        "step3Description": "No esperes demasiado para comenzar el ciclo de las abejas, o el progreso de la miel se quedará atrás."
+      },
+      "featured": "Destacados y Esenciales",
+      "all": "Todas las Guías de Abejas"
+    },
+    "axes": {
+      "title": "Hachas de Axe RNG",
+      "description": "Rareza de hachas, poder de tala, prioridad de tirada y qué hachas vale la pena conservar.",
+      "metaTitle": "Hachas de Axe RNG - Mejores Hachas, Rareza y Estrategia de Tirada",
+      "metaDescription": "Clasifica las hachas de Axe RNG por valor inicial, eficiencia de tala y rareza. Aprende cuándo seguir tirando y cuándo dejar de gastar mejoras.",
+      "categoryLabel": "HACHAS DE AXE RNG",
+      "whatIs": "¿Cuáles son las mejores hachas en Axe RNG?",
+      "whatIsDescription": "La mejor hacha inicial de Axe RNG es la Shiny Broad Axe del código THANKYOU. Más allá de eso, las tiradas de mayor rareza que mejoran la velocidad de tala y la limpieza de zonas son las más valiosas.",
+      "why": "¿Por qué estudiar la lista de niveles de hachas?",
+      "whySteps": {
+        "step1Title": "Poder de Tala Primero",
+        "step1Description": "Prioriza las hachas que talan árboles más rápido, ya que eso alimenta las mejoras, las abejas y la miel.",
+        "step2Title": "Saber Cuándo Volver a Tirar",
+        "step2Description": "Vuelve a tirar solo cuando tu hacha actual empiece a ralentizar el progreso de la zona.",
+        "step3Title": "Gasta las Mejoras Sabiamente",
+        "step3Description": "Guarda las pociones de Suerte y Súper Suerte para sesiones de tirada enfocadas, no para la agricultura casual."
+      },
+      "featured": "Destacado y Esencial",
+      "all": "Todas las Guías de Hachas"
+    },
+    "trees": {
+      "title": "Árboles de Axe RNG",
+      "description": "Fuerza del árbol, producción de recursos y qué hacha usar en cada tipo de árbol.",
+      "metaTitle": "Árboles de Axe RNG - Eficiencia de Tala y Recursos",
+      "metaDescription": "Comprende los tipos de árboles de Axe RNG, lo difícil que son de talar, los recursos que sueltan y qué hacha funciona mejor para cada etapa.",
+      "categoryLabel": "ÁRBOLES DE AXE RNG",
+      "whatIs": "¿Cómo funcionan los árboles en Axe RNG?",
+      "whatIsDescription": "En Axe RNG, los árboles son el objetivo principal de tala. Los árboles más fuertes sueltan más recursos pero requieren hachas más fuertes, por lo que la dificultad de los árboles escala con tu progresión a través de las zonas.",
+      "why": "¿Por qué aprender a talar árboles?",
+      "whySteps": {
+        "step1Title": "Empareja el Hacha con el Árbol",
+        "step1Description": "Usa un hacha lo suficientemente fuerte como para talar los árboles actuales sin mucho tiempo de inactividad.",
+        "step2Title": "Cultiva Eficientemente",
+        "step2Description": "Repite las talas en árboles que suelten los recursos que necesitas para mejoras y abejas.",
+        "step3Title": "Saber Cuándo Moverse",
+        "step3Description": "Cambia a árboles más fuertes y nuevas zonas una vez que las actuales se sientan rutinarias."
+      },
+      "featured": "Destacado y Esencial",
+      "all": "Todas las Guías de Árboles"
+    },
+    "luck": {
+      "title": "Suerte en Axe RNG",
+      "description": "Cómo funciona la Suerte, las mejores mejoras de Suerte, la Suerte máxima y cómo el renacimiento aumenta tu límite de Suerte.",
+      "metaTitle": "Suerte en Axe RNG - Mejoras, Suerte Máxima y Tiradas Raras",
+      "metaDescription": "Domina la Suerte en Axe RNG: las mejores mejoras de Suerte, cómo alcanzar la Suerte máxima, las tiradas de bioma más raras y cómo el renacimiento aumenta permanentemente tu Suerte.",
+      "categoryLabel": "SUERTE EN AXE RNG",
+      "whatIs": "¿Qué es la Suerte en Axe RNG?",
+      "whatIsDescription": "La Suerte en Axe RNG controla la frecuencia con la que obtienes hachas más raras y fuertes. Una Suerte más alta mejora los resultados de tus tiradas, y el renacimiento es la forma principal de aumentar permanentemente tu límite de Suerte con el tiempo.",
+      "why": "¿Por qué aumentar tu Suerte?",
+      "whySteps": {
+        "step1Title": "Mejores Tiradas de Hachas",
+        "step1Description": "Más Suerte significa que las hachas más raras caen con más frecuencia, lo que acelera la tala y la limpieza de zonas.",
+        "step2Title": "Acumula Mejoras de Suerte",
+        "step2Description": "Reclama el bono de grupo de +1 Suerte y usa pociones de Suerte antes de sesiones de tirada enfocadas.",
+        "step3Title": "Aumenta la Suerte a Través del Renacimiento",
+        "step3Description": "El renacimiento aumenta permanentemente tu Suerte, por lo que cada nueva partida obtiene hachas más fuertes que la anterior."
+      },
+      "featured": "Destacado y Esencial",
+      "all": "Todas las Guías de Suerte"
+    },
+    "upgrades": {
+      "title": "Mejoras de Axe RNG",
+      "description": "Árboles de habilidades y mejoras, orden de prioridad y cómo gastar recursos para una tala más rápida.",
+      "metaTitle": "Mejoras de Axe RNG - Habilidades, Árbol de Mejoras y Prioridad",
+      "metaDescription": "Domina las mejoras de Axe RNG: árboles de habilidades, prioridad de mejoras, mejoras máximas y dónde gastar recursos para la tala y el progreso de zona más rápidos.",
+      "categoryLabel": "MEJORAS DE AXE RNG",
+      "whatIs": "¿Qué son las mejoras en Axe RNG?",
+      "whatIsDescription": "Las mejoras en Axe RNG son aumentos del árbol de habilidades que mejoran el poder de tala, la calidad de las tiradas, la producción de abejas y la ganancia de miel. Gastar recursos en las mejoras correctas acelera cada parte del ciclo principal.",
+      "why": "¿Por qué planificar tus mejoras?",
+      "whySteps": {
+        "step1Title": "Gasta los Recursos Inteligentemente",
+        "step1Description": "Enfoca las mejoras en el poder de tala y la Suerte primero, ya que desbloquean todos los demás sistemas más rápido.",
+        "step2Title": "Sigue el Árbol de Mejoras",
+        "step2Description": "Avanza por el árbol de habilidades en orden de prioridad para que cada mejora se acumule sobre la anterior.",
+        "step3Title": "Alcanza las Mejoras Máximas",
+        "step3Description": "Esfuérzate por alcanzar las mejoras máximas para mantener la velocidad de tala y la calidad de las tiradas por delante de las zonas más difíciles."
+      },
+      "featured": "Destacado y Esencial",
+      "all": "Todas las Guías de Mejoras"
+    },
+    "farming": {
+      "title": "Axe RNG Farming",
+      "description": "Métodos de farmeo, rutas de recursos y cómo construir riqueza de manera eficiente.",
+      "metaTitle": "Axe RNG Farming - Mejores Métodos y Guía de Recursos",
+      "metaDescription": "Aprende los mejores métodos de farmeo de Axe RNG, las rutas de recursos más rápidas y cómo hacer miles de millones a través de la tala eficiente, mejoras y abejas.",
+      "categoryLabel": "FARMEAR EN AXE RNG",
+      "whatIs": "¿Qué es farmear en Axe RNG?",
+      "whatIsDescription": "Farmear en Axe RNG es el proceso de repetir ciclos de tala, abejas y miel de alto rendimiento para construir recursos y dinero rápidamente. El farmeo eficiente financia tus mejoras, el lanzamiento de hachas y el avance de zonas.",
+      "why": "¿Por qué optimizar tu farmeo?",
+      "whySteps": {
+        "step1Title": "Elige el Mejor Método",
+        "step1Description": "Elige los lugares de farmeo y los tipos de árboles que sueltan los recursos que necesitas ahora mismo.",
+        "step2Title": "Farmea Más Rápido",
+        "step2Description": "Combina un hacha fuerte, las mejoras adecuadas y abejas para multiplicar tu producción de recursos.",
+        "step3Title": "Convierte los Recursos en Progreso",
+        "step3Description": "Reinvierte los recursos farmeados en mejoras y Suerte para que cada sesión gane más que la anterior."
+      },
+      "featured": "Destacado y Esencial",
+      "all": "Todas las Guías de Farmeo"
+    }
+  }
+}

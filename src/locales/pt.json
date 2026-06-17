@@ -1,1 +1,787 @@
-{}
+{
+  "seo": {
+    "home": {
+      "title": "Axe RNG Wiki - Códigos, Machados, Abelhas e Renascimento",
+      "description": "A Axe RNG Wiki cobre códigos Roblox, passos de resgate, machados raros, abelhas, mel, melhorias, zonas e dicas de renascimento para o simulador de corte de árvores RNG da Chopsy Games.",
+      "keywords": "Axe RNG, Roblox, códigos, machados, abelhas, mel, renascimento, zonas",
+      "ogTitle": "Axe RNG Wiki - Códigos, Machados, Abelhas e Renascimento",
+      "ogDescription": "A Axe RNG Wiki cobre códigos Roblox, passos de resgate, machados raros, abelhas, mel, melhorias, zonas e dicas de renascimento para o simulador de corte de árvores RNG da Chopsy Games.",
+      "twitterTitle": "Axe RNG Wiki - Códigos, Machados, Abelhas e Renascimento",
+      "twitterDescription": "A Axe RNG Wiki cobre códigos Roblox, passos de resgate, machados raros, abelhas, mel, melhorias, zonas e dicas de renascimento para o simulador de corte de árvores RNG da Chopsy Games."
+    }
+  },
+  "nav": {
+    "codes": "Códigos",
+    "guide": "Guia",
+    "bees": "Abelhas",
+    "axes": "Machados",
+    "trees": "Árvores",
+    "luck": "Sorte",
+    "upgrades": "Melhorias",
+    "farming": "Farming"
+  },
+  "common": {
+    "home": "Início",
+    "more": "Mais",
+    "playNow": "Jogar no Roblox",
+    "switchLanguage": "Mudar Idioma",
+    "switchTheme": "Mudar Tema",
+    "lightMode": "Modo Claro",
+    "darkMode": "Modo Escuro",
+    "notFound": "Página Não Encontrada",
+    "notFoundDescription": "A página que você está procurando não existe.",
+    "backToHome": "Voltar ao Início",
+    "relatedArticles": "Artigos Relacionados",
+    "readMore": "Ler Mais",
+    "articlesComingSoon": "Artigos em breve"
+  },
+  "hero": {
+    "badge": "Simulador de Lenhador RNG do Roblox",
+    "title": "Axe RNG Wiki",
+    "description": "Role machados raros, corte árvores, choque abelhas, colete mel, renasça para mais sorte e avance por novas zonas no simulador de lenhador RNG do Roblox da Chopsy Games.",
+    "getFreeCodesCTA": "Obter Códigos Gratuitos",
+    "playOnRobloxCTA": "Jogar no Roblox",
+    "stats": {
+      "stat1": {
+        "value": "6.5K",
+        "label": "Jogadores Online"
+      },
+      "stat2": {
+        "value": "427.6K+",
+        "label": "Total de Visitas"
+      },
+      "stat3": {
+        "value": "86%",
+        "label": "Avaliação do Usuário"
+      },
+      "stat4": {
+        "value": "44.8K+",
+        "label": "Membros do Grupo"
+      }
+    }
+  },
+  "gameFeature": {
+    "title": "Jogabilidade de Axe RNG",
+    "description": "Role machados raros, corte árvores, choque abelhas, colete mel, melhore habilidades e renasça para mais sorte enquanto avança por novas zonas neste simulador de lenhador RNG do Roblox."
+  },
+  "tools": {
+    "title": "Axe RNG",
+    "titleHighlight": "Guias e Ferramentas",
+    "subtitle": "Tudo o que você precisa para Axe RNG: códigos ativos, passos de resgate, rolagem de machados, abelhas, mel, sorte de renascimento e progressão de zona.",
+    "cards": [
+      {
+        "icon": "Gift",
+        "title": "Códigos e Resgate",
+        "description": "Códigos ativos de Axe RNG, recompensas e passos de resgate"
+      },
+      {
+        "icon": "Gamepad2",
+        "title": "Informações Oficiais do Jogo",
+        "description": "Link oficial do Roblox, desenvolvedor e ciclo de jogo"
+      },
+      {
+        "icon": "BookOpen",
+        "title": "Guia para Iniciantes",
+        "description": "Ciclo da primeira sessão, desde rolar machados até o renascimento"
+      },
+      {
+        "icon": "Hammer",
+        "title": "Lista de Níveis de Machado",
+        "description": "Melhores machados, raridade e estratégia de rolagem"
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "Habilidades e Melhorias",
+        "description": "Prioridade de melhoria para corte e rolagem"
+      },
+      {
+        "icon": "Bug",
+        "title": "Abelhas e Mel",
+        "description": "Chocar abelhas, coletar mel e valor de progressão"
+      },
+      {
+        "icon": "RefreshCw",
+        "title": "Renascimento e Sorte",
+        "description": "Momento do renascimento e estratégia de aumento de sorte"
+      },
+      {
+        "icon": "Map",
+        "title": "Progressão de Zonas",
+        "description": "Ordem das zonas, verificações de força e preparação"
+      }
+    ]
+  },
+  "modules": {
+    "axeRngCodes": {
+      "eyebrow": "Códigos",
+      "title": "Códigos de Axe RNG e Guia de Resgate",
+      "subtitle": "Resgate poções, mel, cristais e recompensas de machado grátis antes de farmar mais árvores do que o necessário.",
+      "intro": "Use estes códigos de Axe RNG na caixa de códigos da Loja do jogo. Os códigos diferenciam maiúsculas de minúsculas, geralmente são de uso único por conta e podem exigir um servidor novo após uma atualização recente.",
+      "activeCodes": [
+        {
+          "code": "AWESOME",
+          "reward": "Poções e impulsos",
+          "note": "Use para impulsos de progressão geral."
+        },
+        {
+          "code": "POTIONS",
+          "reward": "Recompensas de poções grátis",
+          "note": "Use antes de longas sessões de corte ou sorteio."
+        },
+        {
+          "code": "ULTRAX2",
+          "reward": "Recompensas de Poção de Ultra Sorte",
+          "note": "Melhor guardar para sorteios de machado focados."
+        },
+        {
+          "code": "SWEETBOOST",
+          "reward": "Recompensas de Poção de Toras e Poção de Mel",
+          "note": "Útil para farmar recursos."
+        },
+        {
+          "code": "THANKYOU",
+          "reward": "1 Machado Largo Brilhante",
+          "note": "Equipe cedo para uma opção de machado inicial mais forte."
+        },
+        {
+          "code": "FUSIONISHERE",
+          "reward": "2 Poções de Super Sorte",
+          "note": "Use ao sortear machados mais fortes."
+        },
+        {
+          "code": "FUSIONSOON",
+          "reward": "1 Poção de Super Sorte",
+          "note": "Guarde para uma sessão de sorteio real, não apenas apertar botões aleatoriamente."
+        },
+        {
+          "code": "SUPERLUCK",
+          "reward": "1 Poção de Super Sorte",
+          "note": "Use para tentativas de sorteio melhoradas."
+        },
+        {
+          "code": "SMALLCHANGES",
+          "reward": "2 Poções de Velocidade e 2 Poções de Sorte",
+          "note": "Bom tanto para sorteios quanto para farmar mais rápido no início."
+        },
+        {
+          "code": "ADMINABUSESOON",
+          "reward": "2 Poções de Super Sorte",
+          "note": "Use durante uma janela de sorteio de sorte."
+        },
+        {
+          "code": "CRYSTALS",
+          "reward": "500 Cristais",
+          "note": "Útil para melhorias iniciais e compras de progressão."
+        },
+        {
+          "code": "SWEET",
+          "reward": "2.000 de Mel",
+          "note": "Útil para progressão relacionada a abelhas e mel."
+        }
+      ],
+      "expiredCodes": [
+        {
+          "code": "PATCHY",
+          "reward": "250 Cristais e 1 Poção de Toras",
+          "note": "Mantido na lista para que jogadores que retornam saibam por que não funciona mais."
+        }
+      ],
+      "redeemSteps": [
+        "Abra o Axe RNG no Roblox.",
+        "Termine o tutorial curto se o botão da Loja ainda não estiver disponível.",
+        "Toque no ícone da Loja no lado direito da tela.",
+        "Role até o final do menu da Loja.",
+        "Cole o código na caixa de código exatamente como mostrado.",
+        "Pressione Resgatar para receber a recompensa."
+      ],
+      "codeFixes": [
+        "Verifique as letras maiúsculas antes de resgatar.",
+        "Reinicie o jogo e entre em um servidor mais novo após uma atualização recente.",
+        "Evite espaços extras antes ou depois do código.",
+        "Resgate cada código apenas uma vez por conta do Roblox.",
+        "Use códigos relacionados a atualizações rapidamente, pois os códigos de jogos do Roblox podem expirar sem aviso prévio."
+      ]
+    },
+    "axeRngOfficialInfo": {
+      "eyebrow": "Informações Oficiais",
+      "title": "Link Oficial do Roblox e Informações do Jogo Axe RNG",
+      "subtitle": "Jogue a experiência real de Axe RNG da Chopsy Games no Roblox, não em alguma página de download misteriosa.",
+      "intro": "Axe RNG é um simulador incremental no Roblox onde os jogadores giram para obter machados, cortam árvores, progridem por zonas, melhoram habilidades, chocam abelhas, coletam mel e fazem rebirth para ter mais sorte.",
+      "cards": [
+        {
+          "label": "Link Oficial para Jogar",
+          "value": "Axe RNG no Roblox",
+          "detail": "Use a página oficial da experiência no Roblox para jogar Axe RNG com segurança.",
+          "href": "https://www.roblox.com/games/121863161094252/Axe-RNG"
+        },
+        {
+          "label": "Desenvolvedor",
+          "value": "Chopsy Games",
+          "detail": "Axe RNG é publicado sob a comunidade Chopsy Games no Roblox.",
+          "href": "https://www.roblox.com/communities/896806231/Chopsy-Games"
+        },
+        {
+          "label": "Comunidade Oficial",
+          "value": "Grupo da Chopsy Games no Roblox",
+          "detail": "Entre no grupo para o bônus de +1 de Sorte listado e acesso a atualizações futuras.",
+          "href": "https://www.roblox.com/communities/896806231/Chopsy-Games"
+        },
+        {
+          "label": "Servidor do Discord",
+          "value": "Discord da Chopsy Games",
+          "detail": "Use o convite do Discord para postagens de atualização, anúncios de códigos, enquetes e discussões da comunidade.",
+          "href": "https://discord.com/invite/5pUHN6D4xH"
+        },
+        {
+          "label": "Ciclo Principal de Jogabilidade",
+          "value": "Girar machados, cortar árvores, melhorar, chocar abelhas, rebirth",
+          "detail": "A descrição oficial do jogo foca o ciclo em girar machados mais fortes, coletar recursos, desbloquear zonas e aumentar a Sorte através de rebirths."
+        },
+        {
+          "label": "ID da Experiência no Roblox",
+          "value": "121863161094252",
+          "detail": "Este é o ID do local (place ID) da URL oficial do jogo no Roblox."
+        },
+        {
+          "label": "ID do Universo",
+          "value": "10241922839",
+          "detail": "Este ID aparece nas URLs de detalhes do jogo no Roblox para a experiência Axe RNG."
+        },
+        {
+          "label": "Contexto da Plataforma",
+          "value": "Experiência no Roblox",
+          "detail": "Axe RNG deve ser jogado através do Roblox. Evite mirrors de APK, páginas clones de navegador e avisos de download não oficiais."
+        }
+      ]
+    },
+    "axeRngBeginnerGuide": {
+      "eyebrow": "Guia para Iniciantes",
+      "title": "Guia para Iniciantes de Axe RNG",
+      "subtitle": "Comece girando machados melhores, cortando árvores, melhorando habilidades, coletando mel e fazendo rebirth para ter mais Sorte.",
+      "intro": "Axe RNG recompensa a progressão constante: gire para obter machados mais fortes, use-os para cortar árvores mais rápido, invista recursos em melhorias, choque abelhas para obter mel, desbloqueie novas zonas e faça rebirth quando o ganho de Sorte valer a pena o reinício da progressão.",
+      "steps": [
+        {
+          "title": "Gire para obter seu primeiro machado útil",
+          "action": "Use o sistema de giro para obter um machado mais forte que sua opção inicial.",
+          "whyItMatters": "Os machados determinam a velocidade de corte, então o progresso inicial depende de substituir giros fracos rapidamente.",
+          "beginnerMistake": "Manter um machado fraco por muito tempo só porque ele parece aceitável."
+        },
+        {
+          "title": "Equipe o melhor machado que você tiver",
+          "action": "Depois de girar ou resgatar um machado de código, equipe o machado mais forte disponível antes de farmar árvores.",
+          "whyItMatters": "Machados melhores reduzem o tempo necessário para cortar árvores e coletar recursos.",
+          "beginnerMistake": "Resgatar uma recompensa de machado mais forte e esquecer de equipá-lo."
+        },
+        {
+          "title": "Corte árvores para obter recursos",
+          "action": "Farme árvores consistentemente para acumular os recursos necessários para melhorias e progressão.",
+          "whyItMatters": "Cortar árvores é o principal ciclo ativo que alimenta o restante do jogo.",
+          "beginnerMistake": "Girar sem parar sem farmar recursos suficientes para sustentar as melhorias."
+        },
+        {
+          "title": "Melhore suas habilidades",
+          "action": "Gaste recursos em melhorias de habilidades quando elas melhorarem o corte, o giro ou a velocidade geral de progressão.",
+          "whyItMatters": "Melhorias de habilidades tornam cada sessão de farm futura mais eficiente.",
+          "beginnerMistake": "Economizar recursos para sempre enquanto ainda corta devagar."
+        },
+        {
+          "title": "Choque abelhas e colete mel",
+          "action": "Use o sistema de abelhas e as recompensas de mel para apoiar a progressão a longo prazo.",
+          "whyItMatters": "O ciclo oficial inclui chocar abelhas e coletar muito mel, então ignorar o mel atrasa o crescimento da conta.",
+          "beginnerMistake": "Tratar as abelhas como decoração em vez de parte do sistema de progressão."
+        },
+        {
+          "title": "Progrida pelas zonas",
+          "action": "Mude para novas zonas quando a força do seu machado e as melhorias tornarem as árvores atuais fáceis de limpar.",
+          "whyItMatters": "As zonas fazem parte do caminho de progressão oficial e geralmente exigem ferramentas mais fortes.",
+          "beginnerMistake": "Entrar em áreas mais difíceis cedo demais e perder tempo com limpezas lentas."
+        },
+        {
+          "title": "Use reforços de Sorte antes de girar seriamente",
+          "action": "Guarde as recompensas de poções de Sorte, Super Sorte e Ultra Sorte para sessões de giro focadas.",
+          "whyItMatters": "A Sorte importa mais quando você está tentando ativamente substituir seu machado atual.",
+          "beginnerMistake": "Usar reforços de Sorte enquanto quase não está girando."
+        },
+        {
+          "title": "Faça rebirth quando o ganho de Sorte valer a pena",
+          "action": "Faça rebirth para aumentar a Sorte depois que sua corrida atual desacelerar e o reinício proporcionar giros futuros melhores.",
+          "whyItMatters": "O rebirth aumenta a Sorte, tornando-o central para a progressão a longo prazo.",
+          "beginnerMistake": "Fazer rebirth cedo demais antes de obter valor suficiente da corrida atual."
+        },
+        {
+          "title": "Entre no grupo oficial para +1 de Sorte",
+          "action": "Curta o jogo, favorite-o e entre no grupo da Chopsy Games no Roblox para o bônus de Sorte listado.",
+          "whyItMatters": "A descrição oficial no Roblox lista um bônus de +1 de Sorte por curtir, favoritar e entrar no grupo.",
+          "beginnerMistake": "Pular um bônus de Sorte gratuito e depois culpar os dados."
+        }
+      ]
+    },
+    "axeRngAxeTierList": {
+      "eyebrow": "Lista de Níveis",
+      "title": "Lista de Níveis de Machados Axe RNG e Estratégia de Rolagem",
+      "subtitle": "Priorize machados que realmente melhoram a velocidade de corte, então use os bônus de Sorte quando estiver pronto para rolar por uma melhoria significativa.",
+      "intro": "Esta lista de níveis para o início do jogo classifica os resultados dos machados Axe RNG pelo valor prático de progressão: poder de corte imediato, utilidade após os códigos, se o machado ajuda a desbloquear zonas mais rapidamente e quando vale a pena rolar novamente.",
+      "tiers": [
+        {
+          "tier": "S",
+          "label": "Melhor para Manter no Início",
+          "entries": [
+            {
+              "name": "Shiny Broad Axe",
+              "type": "Recompensa de machado por código",
+              "bestFor": "Contas novas, cultivo de árvores no início e primeiro impulso sério de progressão.",
+              "keepOrReroll": "Equipe imediatamente e mantenha até que um rolo de maior poder o supere claramente.",
+              "reason": "O código THANKYOU recompensa com um Shiny Broad Axe, tornando-o a melhor melhoria de machado nomeada disponível a partir dos dados de código atuais."
+            }
+          ]
+        },
+        {
+          "tier": "A",
+          "label": "Melhorias de Rolagem de Alto Valor",
+          "entries": [
+            {
+              "name": "Rolagens de machado de raridade superior",
+              "type": "Categoria de resultado de rolagem",
+              "bestFor": "Substituir seu machado atual quando a derrubada de árvores começar a parecer lenta.",
+              "keepOrReroll": "Mantenha se melhorar a velocidade de corte ou ajudar você a lidar com a próxima zona mais rapidamente.",
+              "reason": "A progressão do Axe RNG é construída em torno de rolar machados mais fortes, então usá-los para cortar árvores e avançar pelas zonas."
+            }
+          ]
+        },
+        {
+          "tier": "B",
+          "label": "Machados Temporários Úteis",
+          "entries": [
+            {
+              "name": "Melhorias de poder do mesmo estágio",
+              "type": "Machado de progressão de curto prazo",
+              "bestFor": "Preencher a lacuna antes de uma rolagem rara ou melhoria de machado por código.",
+              "keepOrReroll": "Use temporariamente, mas continue rolando assim que os bônus de Sorte ou recursos estiverem prontos.",
+              "reason": "Uma pequena melhoria de machado ainda importa no início porque cada corte de árvore mais rápido alimenta melhorias, mel e progresso de zona."
+            }
+          ]
+        },
+        {
+          "tier": "C",
+          "label": "Machados de Nível Inicial",
+          "entries": [
+            {
+              "name": "Rolagens iniciais de baixo poder",
+              "type": "Categoria de substituição inicial",
+              "bestFor": "Apenas os primeiros minutos de jogo.",
+              "keepOrReroll": "Substitua rapidamente assim que conseguir o Shiny Broad Axe ou qualquer rolagem mais forte.",
+              "reason": "Machados de baixo poder diminuem o corte, o que retarda todos os sistemas conectados: melhorias, abelhas, mel e preparação para o renascimento."
+            }
+          ]
+        },
+        {
+          "tier": "D",
+          "label": "Material para Rerrolar",
+          "entries": [
+            {
+              "name": "Rolagens duplicadas mais fracas",
+              "type": "Resultado de rolagem de baixo valor",
+              "bestFor": "Nenhum uso sério depois que um machado mais forte é equipado.",
+              "keepOrReroll": "Não baseie seu plano de cultivo neles; continue rolando quando puder.",
+              "reason": "Duplicatas ou resultados mais fracos não melhoram a velocidade de corte, então eles não impulsionam significativamente a progressão."
+            }
+          ]
+        },
+        {
+          "tier": "Strategy",
+          "label": "Quando Gastar Bônus",
+          "entries": [
+            {
+              "name": "Sessões de Super Sorte e Ultra Sorte",
+              "type": "Plano de tempo de bônus",
+              "bestFor": "Rolagem focada após reivindicar códigos como ADMINABUSESOON, FUSIONISHERE, FUSIONSOON, SUPERLUCK e ULTRAX2.",
+              "keepOrReroll": "Use os bônus de Sorte apenas quando estiver pronto para rolar repetidamente, então pare assim que conseguir uma melhoria clara de machado.",
+              "reason": "Os bônus de Sorte são mais valiosos durante a rolagem concentrada do que durante o cultivo casual de árvores."
+            },
+            {
+              "name": "Sessões de cultivo de velocidade e recursos",
+              "type": "Plano de tempo de cultivo",
+              "bestFor": "Usar SMALLCHANGES, SWEETBOOST, POTIONS, SWEET e CRYSTALS para acelerar o crescimento inicial.",
+              "keepOrReroll": "Cultive e melhore primeiro se seu machado atual já derruba árvores confortavelmente.",
+              "reason": "Os bônus de recursos ajudam você a construir a base de melhorias necessária para tornar futuras rolagens e renascimentos mais valiosos."
+            }
+          ]
+        }
+      ]
+    },
+    "axeRngSkillsUpgrades": {
+      "eyebrow": "Prioridade de Habilidades",
+      "title": "Ordem de Melhoria de Habilidades Axe RNG",
+      "subtitle": "Melhore as habilidades em torno do ciclo principal: role machados mais fortes, corte árvores mais rápido, colete mais recursos, choque abelhas e avance para novas zonas.",
+      "intro": "Axe RNG recompensa a progressão constante mais do que gastos aleatórios. Construa suas melhorias em torno da limpeza mais rápida de árvores primeiro, depois ganho de recursos, abelhas, mel e sorte de renascimento para que cada sistema alimente o próximo.",
+      "steps": [
+        {
+          "priority": "Primeiro",
+          "title": "Melhorar a eficiência de corte",
+          "action": "Invista as melhorias iniciais de habilidades em qualquer coisa que ajude as árvores a caírem mais rápido ou torne cada ciclo de corte mais suave.",
+          "whyItMatters": "Cortar árvores é a ação principal depois de rolar machados, então a limpeza mais rápida melhora todos os objetivos posteriores."
+        },
+        {
+          "priority": "Segundo",
+          "title": "Apoiar o ganho de recursos",
+          "action": "Depois que o corte básico parecer estável, concentre-se em melhorias que ajudem na coleta de recursos de limpezas repetidas de árvores.",
+          "whyItMatters": "Mais recursos lhe dão mais espaço para melhorar, chocar abelhas e se preparar para o progresso em zonas mais difíceis."
+        },
+        {
+          "priority": "Terceiro",
+          "title": "Continue rolando para machados mais fortes",
+          "action": "Use o progresso de habilidades para apoiar melhores rolagens de machados em vez de depender apenas do seu machado inicial.",
+          "whyItMatters": "O ciclo oficial começa com a rolagem de machados poderosos, e machados mais fortes facilitam a progressão de árvores e zonas."
+        },
+        {
+          "priority": "Quarto",
+          "title": "Adicione abelhas à rotina",
+          "action": "Uma vez que o corte seja consistente, choque abelhas e continue coletando mel enquanto você continua rolando e limpando árvores.",
+          "whyItMatters": "Abelhas e mel fazem parte do ciclo de progressão, não uma decoração lateral."
+        },
+        {
+          "priority": "Quinto",
+          "title": "Use o renascimento quando o progresso diminuir",
+          "action": "Renascça depois que sua configuração atual de machado e habilidades parar de avançar nas zonas de forma eficiente.",
+          "whyItMatters": "O renascimento aumenta a Sorte, o que ajuda nas futuras rolagens e na progressão a longo prazo."
+        }
+      ]
+    },
+    "axeRngBeesHoney": {
+      "eyebrow": "Abelhas e Mel",
+      "title": "Abelhas e Mel em Axe RNG Explicados",
+      "subtitle": "As abelhas adicionam uma segunda camada de progressão ao ciclo de rolar e cortar. Choque abelhas, colete mel e mantenha esse recurso em movimento enquanto seus machados cuidam das árvores.",
+      "intro": "O ciclo oficial do jogo inclui chocar abelhas e coletar muito mel depois de rolar machados, melhorar habilidades e cortar árvores. Trate as abelhas como um motor paralelo que cresce enquanto você avança pelas zonas.",
+      "faqs": [
+        {
+          "question": "Para que são usadas as abelhas em Axe RNG?",
+          "answer": "As abelhas fazem parte da progressão de Axe RNG. O jogo diz aos jogadores para chocar novas abelhas e depois coletar mel enquanto continuam rolando machados e cortando árvores."
+        },
+        {
+          "question": "Quando os iniciantes devem chocar abelhas em Axe RNG?",
+          "answer": "Comece a chocar abelhas depois de ter um machado utilizável e conseguir limpar as primeiras árvores de forma consistente. Isso mantém o progresso do mel em andamento enquanto você continua trabalhando em habilidades e zonas."
+        },
+        {
+          "question": "Por que o mel é importante em Axe RNG?",
+          "answer": "O mel é o recurso ligado ao sistema de abelhas. Como Axe RNG destaca especificamente a coleta de muito mel, ele pertence à sua rotina de progressão regular em vez de ser ignorado até mais tarde."
+        },
+        {
+          "question": "Como as abelhas se conectam ao corte de árvores em Axe RNG?",
+          "answer": "Machados cuidam da limpeza de árvores, habilidades melhoram seu progresso, e abelhas adicionam coleta de mel além desse ciclo. A rotina limpa é: rolar machados, cortar árvores, melhorar habilidades, chocar abelhas, coletar mel e depois avançar nas zonas."
+        },
+        {
+          "question": "O mel de Axe RNG deve vir antes de machados mais fortes?",
+          "answer": "Não. Machados mais fortes e corte mais suave devem vir primeiro porque eles impulsionam o caminho principal de progressão. Abelhas e mel se tornam mais fortes uma vez que seu ritmo básico de corte já está funcionando."
+        },
+        {
+          "question": "Qual é o erro comum do mel em Axe RNG?",
+          "answer": "O erro usual é esperar muito tempo para iniciar o ciclo das abelhas. Choque abelhas assim que o jogo lhe der uma abertura prática, então deixe o mel acumular enquanto você continua cortando e rolando."
+        }
+      ]
+    },
+    "axeRngRebirthLuck": {
+      "eyebrow": "Renascimento e Sorte",
+      "title": "Momento do Renascimento e Bônus de Sorte em Axe RNG",
+      "subtitle": "O Renascimento aumenta a Sorte, o que o torna um dos sistemas de longo prazo mais importantes em Axe RNG. Use-o quando seu progresso atual diminuir, não toda vez que você vir um botão.",
+      "intro": "A Sorte importa porque Axe RNG começa com a rolagem de machados. O Renascimento melhora a Sorte para o progresso futuro, enquanto o jogo também oferece um bônus de +1 de Sorte por curtir, favoritar e entrar no grupo Chopsy Games.",
+      "rows": [
+        {
+          "timing": "Antes de rolagens sérias",
+          "action": "Curta o jogo, favorite-o e entre no grupo Chopsy Games.",
+          "benefit": "Bônus de +1 de Sorte da descrição oficial do jogo.",
+          "tradeoff": "Nenhuma desvantagem de progressão; isso deve ser feito cedo."
+        },
+        {
+          "timing": "Antes do primeiro renascimento",
+          "action": "Impulsione seu machado atual, habilidades, abelhas e progresso de árvores até que a próxima zona ou árvores mais fortes pareçam lentas.",
+          "benefit": "Você obtém mais valor da corrida atual antes de entrar em um ciclo de reinício focado na Sorte.",
+          "tradeoff": "Esperar muito tempo pode atrasar futuras rolagens de machados."
+        },
+        {
+          "timing": "Boa janela de renascimento",
+          "action": "Renascça quando as rolagens de machados mais fortes e o progresso da zona pararem de vir em um ritmo útil.",
+          "benefit": "O Renascimento aumenta a Sorte, tornando as futuras rolagens mais valiosas.",
+          "tradeoff": "Você pausa o avanço de curto prazo para melhorar a progressão de longo prazo."
+        },
+        {
+          "timing": "Após o renascimento",
+          "action": "Role para um machado mais forte primeiro, depois reconstrua a velocidade de corte, o progresso de habilidades, as abelhas e a coleta de mel.",
+          "benefit": "Uma Sorte maior apoia o próximo ciclo de rolagem de machados e avanço de zonas.",
+          "tradeoff": "O progresso inicial pós-renascimento pode parecer mais lento até que a nova configuração se atualize."
+        },
+        {
+          "timing": "Antes de avançar nas zonas",
+          "action": "Acumule o progresso de Sorte disponível antes de gastar tempo em rolagens importantes de machados.",
+          "benefit": "Melhores rolagens facilitam o corte de árvores mais fortes e o alcance de zonas posteriores.",
+          "tradeoff": "Rolar sem preparação de Sorte pode desperdiçar tempo com resultados mais fracos."
+        }
+      ]
+    },
+    "axeRngZonesProgression": {
+      "eyebrow": "Zonas e Árvores",
+      "title": "Rota de Progressão de Zonas Axe RNG",
+      "subtitle": "Progrida pelas zonas melhorando machados, cortando árvores mais fortes, aprimorando habilidades, construindo abelhas, coletando mel e usando a Sorte de renascimento.",
+      "intro": "As zonas são o caminho de progresso visível em Axe RNG. A rota mais segura é derrubar árvores confortavelmente em sua área atual, aprimorar habilidades, chocar abelhas para mel, então usar a Sorte de renascimento e rolagens de machado mais fortes para entrar em zonas mais difíceis.",
+      "rows": [
+        {
+          "zoneStage": "Área inicial",
+          "mainGoal": "Role um machado utilizável e comece a cortar árvores consistentemente.",
+          "requiredStrength": "Qualquer configuração de machado que derrube árvores iniciantes sem longos períodos de inatividade.",
+          "resourceFocus": "Progresso básico de árvores e primeiros aprimoramentos de habilidades.",
+          "recommendedPreparation": "Priorize a eficiência de corte antes de espalhar o esforço em todos os sistemas."
+        },
+        {
+          "zoneStage": "Primeiro avanço de zona",
+          "mainGoal": "Use rolagens de machado mais fortes e aprimoramentos de habilidades iniciais para ir além da primeira barreira de árvores.",
+          "requiredStrength": "Um machado forte o suficiente para fazer as árvores atuais parecerem rotineiras.",
+          "resourceFocus": "Aprimoramentos de habilidades, derrubada de árvores e configuração inicial de mel.",
+          "recommendedPreparation": "Role para um machado mais forte, aprimore habilidades úteis e então comece a chocar abelhas assim que o corte estiver estável."
+        },
+        {
+          "zoneStage": "Acúmulo de abelhas e mel",
+          "mainGoal": "Mantenha as abelhas ativas enquanto continua a cortar árvores e melhorar machados.",
+          "requiredStrength": "Um ritmo de corte constante que permite progredir enquanto o mel se acumula em paralelo.",
+          "resourceFocus": "Coleta de mel, eclosão de abelhas e derrubadas repetidas de árvores.",
+          "recommendedPreparation": "Não pare de rolar machados; as abelhas apoiam o ciclo, elas não o substituem."
+        },
+        {
+          "zoneStage": "Progressão com suporte de renascimento",
+          "mainGoal": "Use a Sorte de renascimento para melhorar futuras rolagens de machado e superar o progresso mais lento das árvores.",
+          "requiredStrength": "O progresso atual diminuiu o suficiente para que mais Sorte valha mais do que permanecer na mesma corrida.",
+          "resourceFocus": "Sorte, rolagens de machado mais fortes, progresso de habilidades reconstruído e recuperação de zona.",
+          "recommendedPreparation": "Reivindique o bônus de grupo de +1 Sorte, renasça em um ponto de desaceleração e então role antes de avançar novamente com força."
+        },
+        {
+          "zoneStage": "Grind de zona posterior",
+          "mainGoal": "Repita o ciclo completo até que árvores mais fortes e novas zonas se tornem gerenciáveis.",
+          "requiredStrength": "Uma rolagem de machado mais forte apoiada por habilidades aprimoradas, progresso de mel e Sorte de renascimento.",
+          "resourceFocus": "Ciclos de corte de alto valor, mel, Sorte e progresso de desbloqueio de zona.",
+          "recommendedPreparation": "Alterne entre rolar machados, aprimorar habilidades, progresso de abelhas e renascimento em vez de forçar um sistema para sempre."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "title": "Perguntas Frequentes",
+    "titleHighlight": "",
+    "subtitle": "Tudo o que você precisa saber sobre Axe RNG",
+    "questions": [
+      {
+        "question": "O que é Axe RNG?",
+        "answer": "Axe RNG é um simulador de lenhador RNG do Roblox da Chopsy Games. Você rola por machados, corta árvores, aprimora habilidades, choca abelhas, coleta mel, renasce para mais Sorte e progride por novas zonas."
+      },
+      {
+        "question": "Onde posso jogar Axe RNG?",
+        "answer": "Axe RNG é gratuito para jogar no Roblox através da página oficial da experiência. Use o link oficial do Roblox para evitar espelhos falsos e downloads não oficiais."
+      },
+      {
+        "question": "Como resgato códigos de Axe RNG?",
+        "answer": "Abra Axe RNG no Roblox, toque no ícone da Loja, role até o final, cole um código na caixa de código e pressione Reivindicar. Os códigos diferenciam maiúsculas de minúsculas e são de uso único por conta."
+      },
+      {
+        "question": "O que os códigos de Axe RNG dão?",
+        "answer": "Os códigos de Axe RNG dão poções gratuitas, mel, cristais, impulsos de Sorte e recompensas de machado, como o Shiny Broad Axe do código THANKYOU."
+      },
+      {
+        "question": "Como funciona o renascimento em Axe RNG?",
+        "answer": "O renascimento em Axe RNG aumenta sua Sorte, o que melhora futuras rolagens de machado. Renasça quando sua corrida atual desacelerar para que o ganho de Sorte a longo prazo valha a pena o reset."
+      },
+      {
+        "question": "Para que servem as abelhas e o mel em Axe RNG?",
+        "answer": "Em Axe RNG, abelhas e mel fazem parte do ciclo de progressão. Choque abelhas depois que seu corte estiver estável, então colete mel como um recurso que apoia o crescimento a longo prazo."
+      },
+      {
+        "question": "Axe RNG é gratuito para jogar?",
+        "answer": "Sim. Axe RNG é gratuito para jogar no Roblox. Você só precisa de uma conta Roblox e do link oficial do jogo para começar a rolar machados e cortar árvores."
+      },
+      {
+        "question": "Quem fez Axe RNG?",
+        "answer": "Axe RNG é feito pela Chopsy Games e publicado sob a comunidade Chopsy Games Roblox, que também oferece um bônus de +1 Sorte por entrar no grupo."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Pronto para jogar Axe RNG?",
+    "description": "Role machados raros, corte árvores e renasça para mais sorte no simulador de lenhador RNG do Roblox da Chopsy Games. Junte-se à comunidade Chopsy Games para guias e atualizações!",
+    "joinCommunity": "Entrar no Grupo Roblox",
+    "joinGame": "Jogar no Roblox"
+  },
+  "footer": {
+    "title": "Wiki de Axe RNG",
+    "description": "Seu centro de recursos completo para códigos Axe RNG, etapas de resgate, machados, abelhas, mel, zonas e dicas de renascimento para o simulador de lenhador RNG do Roblox da Chopsy Games.",
+    "resources": "Recursos",
+    "community": "Comunidade",
+    "legal": "Legal",
+    "robloxGame": "Jogar no Roblox",
+    "robloxGroup": "Grupo Chopsy Games",
+    "youtube": "Assistir à Jogabilidade",
+    "about": "Sobre",
+    "privacy": "Política de Privacidade",
+    "terms": "Termos de Serviço",
+    "copyrightNotice": "Direitos Autorais",
+    "copyright": "© 2026 Axe RNG Wiki. Não afiliado à Chopsy Games ou aos desenvolvedores de Axe RNG.",
+    "disclaimer": "Site de recursos não oficial feito por fãs."
+  },
+  "pages": {
+    "codes": {
+      "title": "Códigos Axe RNG",
+      "description": "Todos os códigos Axe RNG ativos, códigos expirados, tipos de recompensa e etapas de resgate em um só lugar.",
+      "metaTitle": "Códigos Axe RNG - Ativos e Expirados (Atualizado)",
+      "metaDescription": "Encontre todos os códigos Axe RNG ativos, as recompensas que cada um oferece, o status de expiração e as etapas exatas de resgate dentro do menu da Loja.",
+      "categoryLabel": "CÓDIGOS AXE RNG",
+      "whatIs": "O que são códigos Axe RNG?",
+      "whatIsDescription": "Os códigos Axe RNG são strings resgatáveis gratuitas que concedem poções, mel, cristais, impulsos de Sorte e recompensas de machado. Eles são inseridos na caixa de código da Loja do jogo e geralmente são de uso único por conta.",
+      "why": "Por que verificar os códigos Axe RNG?",
+      "whySteps": {
+        "step1Title": "Impulsos de Progressão Gratuitos",
+        "step1Description": "Os códigos dão poções, mel e impulsos de Sorte que aceleram a rolagem inicial de machados e o corte de árvores.",
+        "step2Title": "Reivindique Recompensas de Machado Cedo",
+        "step2Description": "Alguns códigos recompensam machados como o Shiny Broad Axe, dando a você uma ferramenta inicial mais forte.",
+        "step3Title": "Mantenha-se Atualizado",
+        "step3Description": "Os códigos de jogos Roblox podem expirar rapidamente após as atualizações, então verificar regularmente mantém suas recompensas ativas."
+      },
+      "featured": "Destaque e Essencial",
+      "all": "Todos os Códigos"
+    },
+    "guide": {
+      "title": "Guia Axe RNG",
+      "description": "Guias completos de Axe RNG cobrindo o ciclo principal, progressão, dicas e estratégias free-to-play.",
+      "metaTitle": "Guia Axe RNG - Dicas, Progressão e Como Jogar",
+      "metaDescription": "Navegue pelos guias de Axe RNG sobre o ciclo de jogo principal, dicas para iniciantes, rotas de progressão, como jogar e estratégias free-to-play.",
+      "categoryLabel": "GUIAS AXE RNG",
+      "whatIs": "O que é o guia Axe RNG?",
+      "whatIsDescription": "O ciclo inicial de Axe RNG é rolar machados, equipar o melhor, cortar árvores para recursos, aprimorar habilidades, chocar abelhas para mel, avançar para novas zonas e renascer quando o ganho de Sorte valer a pena.",
+      "why": "Por que ler o guia Axe RNG?",
+      "whySteps": {
+        "step1Title": "Role e Equipe Cedo",
+        "step1Description": "Substitua machados iniciais fracos rapidamente porque a velocidade de corte impulsiona todos os objetivos posteriores.",
+        "step2Title": "Cultive Antes de Gastar",
+        "step2Description": "Corte árvores consistentemente para que as atualizações e as abelhas tenham recursos para trabalhar.",
+        "step3Title": "Cronometre Seu Renascimento",
+        "step3Description": "Renasça apenas quando sua corrida atual diminuir, para que o reset de Sorte valha a pena."
+      },
+      "featured": "Destaque e Essencial",
+      "all": "Todos os Guias"
+    },
+    "bees": {
+      "title": "Abelhas e Mel Axe RNG",
+      "description": "Como chocar abelhas, coletar mel e usar o mel como recurso de progressão.",
+      "metaTitle": "Abelhas e Mel Axe RNG - Chocar, Coletar e Progredir",
+      "metaDescription": "Aprenda como abelhas e mel se encaixam no ciclo Axe RNG: quando chocar abelhas, por que o mel é importante e como manter o recurso em movimento enquanto você corta árvores.",
+      "categoryLabel": "ABELHAS AXE RNG",
+      "whatIs": "O que são abelhas e mel em Axe RNG?",
+      "whatIsDescription": "Abelhas e mel são uma camada de progressão paralela em Axe RNG. Depois de rolar machados e cortar árvores, você choca abelhas e coleta mel como um recurso que apoia o crescimento a longo prazo.",
+      "why": "Por que se importar com abelhas e mel?",
+      "whySteps": {
+        "step1Title": "Comece na Hora Certa",
+        "step1Description": "Choque abelhas assim que seu ritmo de corte estiver estável para que o mel se acumule junto com o cultivo de árvores.",
+        "step2Title": "Mantenha o Ciclo Funcionando",
+        "step2Description": "As abelhas apoiam o ciclo principal; elas não substituem a rolagem de machados e o corte de árvores.",
+        "step3Title": "Evite o Erro Comum",
+        "step3Description": "Não espere muito para iniciar o ciclo das abelhas, ou o progresso do mel ficará para trás."
+      },
+      "featured": "Destaque e Essencial",
+      "all": "Todos os Guias de Abelhas"
+    },
+    "axes": {
+      "title": "Machados de Axe RNG",
+      "description": "Raridade de machados, poder de corte, prioridade de giro e quais machados vale a pena manter.",
+      "metaTitle": "Machados de Axe RNG - Melhores Machados, Raridade e Estratégia de Giro",
+      "metaDescription": "Classifique os machados de Axe RNG por valor no início do jogo, eficiência de corte e raridade. Saiba quando continuar girando e quando parar de gastar impulsos.",
+      "categoryLabel": "MACHADOS DE AXE RNG",
+      "whatIs": "Quais são os melhores machados em Axe RNG?",
+      "whatIsDescription": "O melhor machado inicial de Axe RNG é o Shiny Broad Axe do código THANKYOU. Além disso, giros de maior raridade que melhoram a velocidade de corte e a limpeza de zonas são os mais valiosos.",
+      "why": "Por que estudar a lista de níveis de machados?",
+      "whySteps": {
+        "step1Title": "Poder de Corte Primeiro",
+        "step1Description": "Priorize machados que limpam árvores mais rápido, pois isso alimenta melhorias, abelhas e mel.",
+        "step2Title": "Saiba Quando Girar Novamente",
+        "step2Description": "Gire novamente apenas quando seu machado atual começar a atrasar o progresso na zona.",
+        "step3Title": "Gaste Impulsos com Sabedoria",
+        "step3Description": "Guarde poções de Luck e Super Luck para sessões de giro focadas, não para farm casual."
+      },
+      "featured": "Destaques e Essenciais",
+      "all": "Todos os Guias de Machados"
+    },
+    "trees": {
+      "title": "Árvores de Axe RNG",
+      "description": "Resistência das árvores, produção de recursos e qual machado usar em cada tipo de árvore.",
+      "metaTitle": "Árvores de Axe RNG - Eficiência de Corte e Recursos",
+      "metaDescription": "Entenda os tipos de árvores de Axe RNG, quão difícil é cortá-las, os recursos que elas soltam e qual machado funciona melhor para cada estágio.",
+      "categoryLabel": "ÁRVORES DE AXE RNG",
+      "whatIs": "Como as árvores funcionam em Axe RNG?",
+      "whatIsDescription": "Em Axe RNG, as árvores são o principal alvo de corte. Árvores mais fortes soltam mais recursos, mas exigem machados mais fortes, então a dificuldade das árvores aumenta conforme seu progresso pelas zonas.",
+      "why": "Por que aprender sobre o corte de árvores?",
+      "whySteps": {
+        "step1Title": "Combine o Machado com a Árvore",
+        "step1Description": "Use um machado forte o suficiente para limpar as árvores atuais sem longos tempos de espera.",
+        "step2Title": "Farme com Eficiência",
+        "step2Description": "Repita a limpeza em árvores que soltam os recursos necessários para melhorias e abelhas.",
+        "step3Title": "Saiba Quando Mudar",
+        "step3Description": "Mude para árvores mais fortes e novas zonas assim que as atuais parecerem rotineiras."
+      },
+      "featured": "Destaques e Essenciais",
+      "all": "Todos os Guias de Árvores"
+    },
+    "luck": {
+      "title": "Luck em Axe RNG",
+      "description": "Como a Luck funciona, os melhores impulsos de Luck, Luck máxima e como o rebirth aumenta seu teto de Luck.",
+      "metaTitle": "Luck em Axe RNG - Impulsos, Luck Máxima e Giros Raros",
+      "metaDescription": "Domine a Luck em Axe RNG: os melhores impulsos de Luck, como atingir a Luck máxima, giros de biomas mais raros e como o rebirth aumenta permanentemente sua Luck.",
+      "categoryLabel": "LUCK EM AXE RNG",
+      "whatIs": "O que é Luck em Axe RNG?",
+      "whatIsDescription": "A Luck em Axe RNG controla a frequência com que você ganha machados mais raros e fortes. Uma Luck maior melhora os resultados dos seus giros, e o rebirth é a principal forma de aumentar permanentemente seu teto de Luck ao longo do tempo.",
+      "why": "Por que aumentar sua Luck?",
+      "whySteps": {
+        "step1Title": "Melhores Giros de Machado",
+        "step1Description": "Mais Luck significa que machados raros aparecem com mais frequência, o que acelera o corte e a limpeza de zonas.",
+        "step2Title": "Acumule Impulsos de Luck",
+        "step2Description": "Resgate o bônus de grupo de +1 de Luck e use poções de Luck antes de sessões de giro focadas.",
+        "step3Title": "Aumente a Luck Através do Rebirth",
+        "step3Description": "O rebirth aumenta permanentemente sua Luck, então cada nova jornada gera machados mais fortes que a anterior."
+      },
+      "featured": "Destaques e Essenciais",
+      "all": "Todos os Guias de Luck"
+    },
+    "upgrades": {
+      "title": "Melhorias de Axe RNG",
+      "description": "Árvores de habilidades e melhorias, ordem de prioridade e como gastar recursos para um corte mais rápido.",
+      "metaTitle": "Melhorias de Axe RNG - Habilidades, Árvore de Melhorias e Prioridade",
+      "metaDescription": "Domine as melhorias de Axe RNG: árvores de habilidades, prioridade de melhoria, melhorias máximas e onde gastar recursos para o corte e progresso de zona mais rápidos.",
+      "categoryLabel": "MELHORIAS DE AXE RNG",
+      "whatIs": "O que são melhorias em Axe RNG?",
+      "whatIsDescription": "Melhorias em Axe RNG são impulsos na árvore de habilidades que melhoram o poder de corte, a qualidade do giro, a produção das abelhas e o ganho de mel. Gastar recursos nas melhorias certas acelera cada parte do ciclo principal.",
+      "why": "Por que planejar suas melhorias?",
+      "whySteps": {
+        "step1Title": "Gaste Recursos de Forma Inteligente",
+        "step1Description": "Foque as melhorias em poder de corte e Luck primeiro, pois elas desbloqueiam todos os outros sistemas mais rapidamente.",
+        "step2Title": "Siga a Árvore de Melhorias",
+        "step2Description": "Trabalhe na árvore de habilidades em ordem de prioridade para que cada impulso se acumule ao anterior.",
+        "step3Title": "Atinja as Melhorias Máximas",
+        "step3Description": "Busque as melhorias máximas para manter a velocidade de corte e a qualidade do giro à frente das zonas mais difíceis."
+      },
+      "featured": "Destaques e Essenciais",
+      "all": "Todos os Guias de Melhorias"
+    },
+    "farming": {
+      "title": "Axe RNG Farming",
+      "description": "Métodos de farming, rotas de recursos e como construir riqueza de forma eficiente.",
+      "metaTitle": "Axe RNG Farming - Melhores Métodos e Guia de Recursos",
+      "metaDescription": "Aprenda os melhores métodos de farming de Axe RNG, as rotas de recursos mais rápidas e como fazer bilhões através de corte eficiente, upgrades e abelhas.",
+      "categoryLabel": "AXE RNG FARMING",
+      "whatIs": "O que é farming em Axe RNG?",
+      "whatIsDescription": "Farming em Axe RNG é o processo de repetir ciclos de corte, abelhas e mel de alto rendimento para construir recursos e dinheiro rapidamente. O farming eficiente financia seus upgrades, rolagem de machado e avanços de zona.",
+      "why": "Por que otimizar seu farming?",
+      "whySteps": {
+        "step1Title": "Escolha o Melhor Método",
+        "step1Description": "Escolha locais de farming e tipos de árvores que forneçam os recursos que você precisa no momento.",
+        "step2Title": "Farme Mais Rápido",
+        "step2Description": "Combine um machado forte, os upgrades certos e abelhas para multiplicar sua produção de recursos.",
+        "step3Title": "Transforme Recursos em Progresso",
+        "step3Description": "Reinvista os recursos farmados em upgrades e Sorte para que cada sessão renda mais que a anterior."
+      },
+      "featured": "Destaque e Essencial",
+      "all": "Todos os Guias de Farming"
+    }
+  }
+}
