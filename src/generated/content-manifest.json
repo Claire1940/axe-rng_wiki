@@ -1,0 +1,714 @@
+{
+  "en": {
+    "axes": [
+      {
+        "slug": "axe-rng-axe-tier-list",
+        "file": "axe-rng-axe-tier-list"
+      },
+      {
+        "slug": "axe-rng-best-axe",
+        "file": "axe-rng-best-axe"
+      },
+      {
+        "slug": "axe-rng-galaxy-axe",
+        "file": "axe-rng-galaxy-axe"
+      },
+      {
+        "slug": "axe-rng-max-level-axe",
+        "file": "axe-rng-max-level-axe"
+      },
+      {
+        "slug": "axe-rng-rarest-axe",
+        "file": "axe-rng-rarest-axe"
+      },
+      {
+        "slug": "axe-rng-secret-axe",
+        "file": "axe-rng-secret-axe"
+      },
+      {
+        "slug": "axe-rng-strongest-axe",
+        "file": "axe-rng-strongest-axe"
+      }
+    ],
+    "bees": [
+      {
+        "slug": "axe-rng-bee-hatch",
+        "file": "axe-rng-bee-hatch"
+      },
+      {
+        "slug": "axe-rng-bees-guide",
+        "file": "axe-rng-bees-guide"
+      },
+      {
+        "slug": "axe-rng-best-bees",
+        "file": "axe-rng-best-bees"
+      },
+      {
+        "slug": "axe-rng-honey-guide",
+        "file": "axe-rng-honey-guide"
+      },
+      {
+        "slug": "axe-rng-how-to-get-bees",
+        "file": "axe-rng-how-to-get-bees"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "axe-rng-codes",
+        "file": "axe-rng-codes"
+      }
+    ],
+    "farming": [
+      {
+        "slug": "axe-rng-best-farming-method",
+        "file": "axe-rng-best-farming-method"
+      },
+      {
+        "slug": "axe-rng-fast-farming",
+        "file": "axe-rng-fast-farming"
+      },
+      {
+        "slug": "axe-rng-how-to-make-billions",
+        "file": "axe-rng-how-to-make-billions"
+      },
+      {
+        "slug": "axe-rng-money-guide",
+        "file": "axe-rng-money-guide"
+      },
+      {
+        "slug": "axe-rng-resource-guide",
+        "file": "axe-rng-resource-guide"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "axe-rng-beginner-guide",
+        "file": "axe-rng-beginner-guide"
+      },
+      {
+        "slug": "axe-rng-f2p-guide",
+        "file": "axe-rng-f2p-guide"
+      },
+      {
+        "slug": "axe-rng-how-to-play",
+        "file": "axe-rng-how-to-play"
+      },
+      {
+        "slug": "axe-rng-noob-guide",
+        "file": "axe-rng-noob-guide"
+      },
+      {
+        "slug": "axe-rng-progression-guide",
+        "file": "axe-rng-progression-guide"
+      },
+      {
+        "slug": "axe-rng-roblox",
+        "file": "axe-rng-roblox"
+      },
+      {
+        "slug": "axe-rng-tips",
+        "file": "axe-rng-tips"
+      }
+    ],
+    "luck": [
+      {
+        "slug": "axe-rng-best-luck-boosts",
+        "file": "axe-rng-best-luck-boosts"
+      },
+      {
+        "slug": "axe-rng-luck-guide",
+        "file": "axe-rng-luck-guide"
+      },
+      {
+        "slug": "axe-rng-luckiest-biome-roll",
+        "file": "axe-rng-luckiest-biome-roll"
+      },
+      {
+        "slug": "axe-rng-max-luck",
+        "file": "axe-rng-max-luck"
+      },
+      {
+        "slug": "axe-rng-rare-rolls",
+        "file": "axe-rng-rare-rolls"
+      }
+    ],
+    "trees": [
+      {
+        "slug": "axe-rng-best-tree",
+        "file": "axe-rng-best-tree"
+      },
+      {
+        "slug": "axe-rng-chop-every-tree",
+        "file": "axe-rng-chop-every-tree"
+      },
+      {
+        "slug": "axe-rng-infinite-trees",
+        "file": "axe-rng-infinite-trees"
+      },
+      {
+        "slug": "axe-rng-infinite-wood",
+        "file": "axe-rng-infinite-wood"
+      },
+      {
+        "slug": "axe-rng-tree-chopping-guide",
+        "file": "axe-rng-tree-chopping-guide"
+      }
+    ],
+    "upgrades": [
+      {
+        "slug": "axe-rng-best-upgrades",
+        "file": "axe-rng-best-upgrades"
+      },
+      {
+        "slug": "axe-rng-max-upgrades",
+        "file": "axe-rng-max-upgrades"
+      },
+      {
+        "slug": "axe-rng-skills-guide",
+        "file": "axe-rng-skills-guide"
+      },
+      {
+        "slug": "axe-rng-upgrade-priority",
+        "file": "axe-rng-upgrade-priority"
+      },
+      {
+        "slug": "axe-rng-upgrade-tree",
+        "file": "axe-rng-upgrade-tree"
+      }
+    ]
+  },
+  "es": {
+    "axes": [
+      {
+        "slug": "axe-rng-axe-tier-list",
+        "file": "axe-rng-axe-tier-list"
+      },
+      {
+        "slug": "axe-rng-best-axe",
+        "file": "axe-rng-best-axe"
+      },
+      {
+        "slug": "axe-rng-galaxy-axe",
+        "file": "axe-rng-galaxy-axe"
+      },
+      {
+        "slug": "axe-rng-max-level-axe",
+        "file": "axe-rng-max-level-axe"
+      },
+      {
+        "slug": "axe-rng-rarest-axe",
+        "file": "axe-rng-rarest-axe"
+      },
+      {
+        "slug": "axe-rng-secret-axe",
+        "file": "axe-rng-secret-axe"
+      },
+      {
+        "slug": "axe-rng-strongest-axe",
+        "file": "axe-rng-strongest-axe"
+      }
+    ],
+    "bees": [
+      {
+        "slug": "axe-rng-bee-hatch",
+        "file": "axe-rng-bee-hatch"
+      },
+      {
+        "slug": "axe-rng-bees-guide",
+        "file": "axe-rng-bees-guide"
+      },
+      {
+        "slug": "axe-rng-best-bees",
+        "file": "axe-rng-best-bees"
+      },
+      {
+        "slug": "axe-rng-honey-guide",
+        "file": "axe-rng-honey-guide"
+      },
+      {
+        "slug": "axe-rng-how-to-get-bees",
+        "file": "axe-rng-how-to-get-bees"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "axe-rng-codes",
+        "file": "axe-rng-codes"
+      }
+    ],
+    "farming": [
+      {
+        "slug": "axe-rng-best-farming-method",
+        "file": "axe-rng-best-farming-method"
+      },
+      {
+        "slug": "axe-rng-fast-farming",
+        "file": "axe-rng-fast-farming"
+      },
+      {
+        "slug": "axe-rng-how-to-make-billions",
+        "file": "axe-rng-how-to-make-billions"
+      },
+      {
+        "slug": "axe-rng-money-guide",
+        "file": "axe-rng-money-guide"
+      },
+      {
+        "slug": "axe-rng-resource-guide",
+        "file": "axe-rng-resource-guide"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "axe-rng-beginner-guide",
+        "file": "axe-rng-beginner-guide"
+      },
+      {
+        "slug": "axe-rng-f2p-guide",
+        "file": "axe-rng-f2p-guide"
+      },
+      {
+        "slug": "axe-rng-how-to-play",
+        "file": "axe-rng-how-to-play"
+      },
+      {
+        "slug": "axe-rng-noob-guide",
+        "file": "axe-rng-noob-guide"
+      },
+      {
+        "slug": "axe-rng-progression-guide",
+        "file": "axe-rng-progression-guide"
+      },
+      {
+        "slug": "axe-rng-roblox",
+        "file": "axe-rng-roblox"
+      },
+      {
+        "slug": "axe-rng-tips",
+        "file": "axe-rng-tips"
+      }
+    ],
+    "luck": [
+      {
+        "slug": "axe-rng-best-luck-boosts",
+        "file": "axe-rng-best-luck-boosts"
+      },
+      {
+        "slug": "axe-rng-luck-guide",
+        "file": "axe-rng-luck-guide"
+      },
+      {
+        "slug": "axe-rng-luckiest-biome-roll",
+        "file": "axe-rng-luckiest-biome-roll"
+      },
+      {
+        "slug": "axe-rng-max-luck",
+        "file": "axe-rng-max-luck"
+      },
+      {
+        "slug": "axe-rng-rare-rolls",
+        "file": "axe-rng-rare-rolls"
+      }
+    ],
+    "trees": [
+      {
+        "slug": "axe-rng-best-tree",
+        "file": "axe-rng-best-tree"
+      },
+      {
+        "slug": "axe-rng-chop-every-tree",
+        "file": "axe-rng-chop-every-tree"
+      },
+      {
+        "slug": "axe-rng-infinite-trees",
+        "file": "axe-rng-infinite-trees"
+      },
+      {
+        "slug": "axe-rng-infinite-wood",
+        "file": "axe-rng-infinite-wood"
+      },
+      {
+        "slug": "axe-rng-tree-chopping-guide",
+        "file": "axe-rng-tree-chopping-guide"
+      }
+    ],
+    "upgrades": [
+      {
+        "slug": "axe-rng-best-upgrades",
+        "file": "axe-rng-best-upgrades"
+      },
+      {
+        "slug": "axe-rng-max-upgrades",
+        "file": "axe-rng-max-upgrades"
+      },
+      {
+        "slug": "axe-rng-skills-guide",
+        "file": "axe-rng-skills-guide"
+      },
+      {
+        "slug": "axe-rng-upgrade-priority",
+        "file": "axe-rng-upgrade-priority"
+      },
+      {
+        "slug": "axe-rng-upgrade-tree",
+        "file": "axe-rng-upgrade-tree"
+      }
+    ]
+  },
+  "pt": {
+    "axes": [
+      {
+        "slug": "axe-rng-axe-tier-list",
+        "file": "axe-rng-axe-tier-list"
+      },
+      {
+        "slug": "axe-rng-best-axe",
+        "file": "axe-rng-best-axe"
+      },
+      {
+        "slug": "axe-rng-galaxy-axe",
+        "file": "axe-rng-galaxy-axe"
+      },
+      {
+        "slug": "axe-rng-max-level-axe",
+        "file": "axe-rng-max-level-axe"
+      },
+      {
+        "slug": "axe-rng-rarest-axe",
+        "file": "axe-rng-rarest-axe"
+      },
+      {
+        "slug": "axe-rng-secret-axe",
+        "file": "axe-rng-secret-axe"
+      },
+      {
+        "slug": "axe-rng-strongest-axe",
+        "file": "axe-rng-strongest-axe"
+      }
+    ],
+    "bees": [
+      {
+        "slug": "axe-rng-bee-hatch",
+        "file": "axe-rng-bee-hatch"
+      },
+      {
+        "slug": "axe-rng-bees-guide",
+        "file": "axe-rng-bees-guide"
+      },
+      {
+        "slug": "axe-rng-best-bees",
+        "file": "axe-rng-best-bees"
+      },
+      {
+        "slug": "axe-rng-honey-guide",
+        "file": "axe-rng-honey-guide"
+      },
+      {
+        "slug": "axe-rng-how-to-get-bees",
+        "file": "axe-rng-how-to-get-bees"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "axe-rng-codes",
+        "file": "axe-rng-codes"
+      }
+    ],
+    "farming": [
+      {
+        "slug": "axe-rng-best-farming-method",
+        "file": "axe-rng-best-farming-method"
+      },
+      {
+        "slug": "axe-rng-fast-farming",
+        "file": "axe-rng-fast-farming"
+      },
+      {
+        "slug": "axe-rng-how-to-make-billions",
+        "file": "axe-rng-how-to-make-billions"
+      },
+      {
+        "slug": "axe-rng-money-guide",
+        "file": "axe-rng-money-guide"
+      },
+      {
+        "slug": "axe-rng-resource-guide",
+        "file": "axe-rng-resource-guide"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "axe-rng-beginner-guide",
+        "file": "axe-rng-beginner-guide"
+      },
+      {
+        "slug": "axe-rng-f2p-guide",
+        "file": "axe-rng-f2p-guide"
+      },
+      {
+        "slug": "axe-rng-how-to-play",
+        "file": "axe-rng-how-to-play"
+      },
+      {
+        "slug": "axe-rng-noob-guide",
+        "file": "axe-rng-noob-guide"
+      },
+      {
+        "slug": "axe-rng-progression-guide",
+        "file": "axe-rng-progression-guide"
+      },
+      {
+        "slug": "axe-rng-roblox",
+        "file": "axe-rng-roblox"
+      },
+      {
+        "slug": "axe-rng-tips",
+        "file": "axe-rng-tips"
+      }
+    ],
+    "luck": [
+      {
+        "slug": "axe-rng-best-luck-boosts",
+        "file": "axe-rng-best-luck-boosts"
+      },
+      {
+        "slug": "axe-rng-luck-guide",
+        "file": "axe-rng-luck-guide"
+      },
+      {
+        "slug": "axe-rng-luckiest-biome-roll",
+        "file": "axe-rng-luckiest-biome-roll"
+      },
+      {
+        "slug": "axe-rng-max-luck",
+        "file": "axe-rng-max-luck"
+      },
+      {
+        "slug": "axe-rng-rare-rolls",
+        "file": "axe-rng-rare-rolls"
+      }
+    ],
+    "trees": [
+      {
+        "slug": "axe-rng-best-tree",
+        "file": "axe-rng-best-tree"
+      },
+      {
+        "slug": "axe-rng-chop-every-tree",
+        "file": "axe-rng-chop-every-tree"
+      },
+      {
+        "slug": "axe-rng-infinite-trees",
+        "file": "axe-rng-infinite-trees"
+      },
+      {
+        "slug": "axe-rng-infinite-wood",
+        "file": "axe-rng-infinite-wood"
+      },
+      {
+        "slug": "axe-rng-tree-chopping-guide",
+        "file": "axe-rng-tree-chopping-guide"
+      }
+    ],
+    "upgrades": [
+      {
+        "slug": "axe-rng-best-upgrades",
+        "file": "axe-rng-best-upgrades"
+      },
+      {
+        "slug": "axe-rng-max-upgrades",
+        "file": "axe-rng-max-upgrades"
+      },
+      {
+        "slug": "axe-rng-skills-guide",
+        "file": "axe-rng-skills-guide"
+      },
+      {
+        "slug": "axe-rng-upgrade-priority",
+        "file": "axe-rng-upgrade-priority"
+      },
+      {
+        "slug": "axe-rng-upgrade-tree",
+        "file": "axe-rng-upgrade-tree"
+      }
+    ]
+  },
+  "th": {
+    "axes": [
+      {
+        "slug": "axe-rng-axe-tier-list",
+        "file": "axe-rng-axe-tier-list"
+      },
+      {
+        "slug": "axe-rng-best-axe",
+        "file": "axe-rng-best-axe"
+      },
+      {
+        "slug": "axe-rng-galaxy-axe",
+        "file": "axe-rng-galaxy-axe"
+      },
+      {
+        "slug": "axe-rng-max-level-axe",
+        "file": "axe-rng-max-level-axe"
+      },
+      {
+        "slug": "axe-rng-rarest-axe",
+        "file": "axe-rng-rarest-axe"
+      },
+      {
+        "slug": "axe-rng-secret-axe",
+        "file": "axe-rng-secret-axe"
+      },
+      {
+        "slug": "axe-rng-strongest-axe",
+        "file": "axe-rng-strongest-axe"
+      }
+    ],
+    "bees": [
+      {
+        "slug": "axe-rng-bee-hatch",
+        "file": "axe-rng-bee-hatch"
+      },
+      {
+        "slug": "axe-rng-bees-guide",
+        "file": "axe-rng-bees-guide"
+      },
+      {
+        "slug": "axe-rng-best-bees",
+        "file": "axe-rng-best-bees"
+      },
+      {
+        "slug": "axe-rng-honey-guide",
+        "file": "axe-rng-honey-guide"
+      },
+      {
+        "slug": "axe-rng-how-to-get-bees",
+        "file": "axe-rng-how-to-get-bees"
+      }
+    ],
+    "codes": [
+      {
+        "slug": "axe-rng-codes",
+        "file": "axe-rng-codes"
+      }
+    ],
+    "farming": [
+      {
+        "slug": "axe-rng-best-farming-method",
+        "file": "axe-rng-best-farming-method"
+      },
+      {
+        "slug": "axe-rng-fast-farming",
+        "file": "axe-rng-fast-farming"
+      },
+      {
+        "slug": "axe-rng-how-to-make-billions",
+        "file": "axe-rng-how-to-make-billions"
+      },
+      {
+        "slug": "axe-rng-money-guide",
+        "file": "axe-rng-money-guide"
+      },
+      {
+        "slug": "axe-rng-resource-guide",
+        "file": "axe-rng-resource-guide"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "axe-rng-beginner-guide",
+        "file": "axe-rng-beginner-guide"
+      },
+      {
+        "slug": "axe-rng-f2p-guide",
+        "file": "axe-rng-f2p-guide"
+      },
+      {
+        "slug": "axe-rng-how-to-play",
+        "file": "axe-rng-how-to-play"
+      },
+      {
+        "slug": "axe-rng-noob-guide",
+        "file": "axe-rng-noob-guide"
+      },
+      {
+        "slug": "axe-rng-progression-guide",
+        "file": "axe-rng-progression-guide"
+      },
+      {
+        "slug": "axe-rng-roblox",
+        "file": "axe-rng-roblox"
+      },
+      {
+        "slug": "axe-rng-tips",
+        "file": "axe-rng-tips"
+      }
+    ],
+    "luck": [
+      {
+        "slug": "axe-rng-best-luck-boosts",
+        "file": "axe-rng-best-luck-boosts"
+      },
+      {
+        "slug": "axe-rng-luck-guide",
+        "file": "axe-rng-luck-guide"
+      },
+      {
+        "slug": "axe-rng-luckiest-biome-roll",
+        "file": "axe-rng-luckiest-biome-roll"
+      },
+      {
+        "slug": "axe-rng-max-luck",
+        "file": "axe-rng-max-luck"
+      },
+      {
+        "slug": "axe-rng-rare-rolls",
+        "file": "axe-rng-rare-rolls"
+      }
+    ],
+    "trees": [
+      {
+        "slug": "axe-rng-best-tree",
+        "file": "axe-rng-best-tree"
+      },
+      {
+        "slug": "axe-rng-chop-every-tree",
+        "file": "axe-rng-chop-every-tree"
+      },
+      {
+        "slug": "axe-rng-infinite-trees",
+        "file": "axe-rng-infinite-trees"
+      },
+      {
+        "slug": "axe-rng-infinite-wood",
+        "file": "axe-rng-infinite-wood"
+      },
+      {
+        "slug": "axe-rng-tree-chopping-guide",
+        "file": "axe-rng-tree-chopping-guide"
+      }
+    ],
+    "upgrades": [
+      {
+        "slug": "axe-rng-best-upgrades",
+        "file": "axe-rng-best-upgrades"
+      },
+      {
+        "slug": "axe-rng-max-upgrades",
+        "file": "axe-rng-max-upgrades"
+      },
+      {
+        "slug": "axe-rng-skills-guide",
+        "file": "axe-rng-skills-guide"
+      },
+      {
+        "slug": "axe-rng-upgrade-priority",
+        "file": "axe-rng-upgrade-priority"
+      },
+      {
+        "slug": "axe-rng-upgrade-tree",
+        "file": "axe-rng-upgrade-tree"
+      }
+    ]
+  }
+}
